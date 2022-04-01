@@ -1,0 +1,248 @@
+as_of_date,case,clinicalstatus,vaccination_status
+1/4/2022 0:00,0.17,Deceased (based on date of death),Non-Fully Vaccinated
+1/4/2022 0:00,0.4,ICU,Fully Vaccinated
+1/4/2022 0:00,0.05,Deceased (based on date of death),Fully Vaccinated
+1/4/2022 0:00,0.99,ICU,Non-Fully Vaccinated
+31/3/2022 0:00,0.96,ICU,Non-Fully Vaccinated
+31/3/2022 0:00,0.2,Deceased (based on date of death),Non-Fully Vaccinated
+31/3/2022 0:00,0.42,ICU,Fully Vaccinated
+31/3/2022 0:00,0.08,Deceased (based on date of death),Fully Vaccinated
+30/3/2022 0:00,0.23,Deceased (based on date of death),Non-Fully Vaccinated
+30/3/2022 0:00,0.96,ICU,Non-Fully Vaccinated
+30/3/2022 0:00,0.1,Deceased (based on date of death),Fully Vaccinated
+30/3/2022 0:00,0.41,ICU,Fully Vaccinated
+29/3/2022 0:00,0.92,ICU,Non-Fully Vaccinated
+29/3/2022 0:00,0.23,Deceased (based on date of death),Non-Fully Vaccinated
+29/3/2022 0:00,0.41,ICU,Fully Vaccinated
+29/3/2022 0:00,0.09,Deceased (based on date of death),Fully Vaccinated
+28/3/2022 0:00,0.09,Deceased (based on date of death),Fully Vaccinated
+28/3/2022 0:00,0.89,ICU,Non-Fully Vaccinated
+28/3/2022 0:00,0.41,ICU,Fully Vaccinated
+28/3/2022 0:00,0.29,Deceased (based on date of death),Non-Fully Vaccinated
+27/3/2022 0:00,0.41,ICU,Fully Vaccinated
+27/3/2022 0:00,0.32,Deceased (based on date of death),Non-Fully Vaccinated
+27/3/2022 0:00,0.89,ICU,Non-Fully Vaccinated
+27/3/2022 0:00,0.09,Deceased (based on date of death),Fully Vaccinated
+26/3/2022 0:00,0.11,Deceased (based on date of death),Fully Vaccinated
+26/3/2022 0:00,0.89,ICU,Non-Fully Vaccinated
+26/3/2022 0:00,0.42,ICU,Fully Vaccinated
+26/3/2022 0:00,0.34,Deceased (based on date of death),Non-Fully Vaccinated
+25/3/2022 0:00,0.31,Deceased (based on date of death),Non-Fully Vaccinated
+25/3/2022 0:00,0.42,ICU,Fully Vaccinated
+25/3/2022 0:00,0.11,Deceased (based on date of death),Fully Vaccinated
+25/3/2022 0:00,0.91,ICU,Non-Fully Vaccinated
+24/3/2022 0:00,0.42,ICU,Fully Vaccinated
+24/3/2022 0:00,1.03,ICU,Non-Fully Vaccinated
+24/3/2022 0:00,0.34,Deceased (based on date of death),Non-Fully Vaccinated
+24/3/2022 0:00,0.1,Deceased (based on date of death),Fully Vaccinated
+23/3/2022 0:00,1.08,ICU,Non-Fully Vaccinated
+23/3/2022 0:00,0.31,Deceased (based on date of death),Non-Fully Vaccinated
+23/3/2022 0:00,0.43,ICU,Fully Vaccinated
+23/3/2022 0:00,0.11,Deceased (based on date of death),Fully Vaccinated
+22/3/2022 0:00,0.44,ICU,Fully Vaccinated
+22/3/2022 0:00,0.12,Deceased (based on date of death),Fully Vaccinated
+22/3/2022 0:00,0.34,Deceased (based on date of death),Non-Fully Vaccinated
+22/3/2022 0:00,1.19,ICU,Non-Fully Vaccinated
+21/3/2022 0:00,0.47,ICU,Fully Vaccinated
+21/3/2022 0:00,0.4,Deceased (based on date of death),Non-Fully Vaccinated
+21/3/2022 0:00,0.13,Deceased (based on date of death),Fully Vaccinated
+21/3/2022 0:00,1.36,ICU,Non-Fully Vaccinated
+20/3/2022 0:00,0.49,ICU,Fully Vaccinated
+20/3/2022 0:00,0.13,Deceased (based on date of death),Fully Vaccinated
+20/3/2022 0:00,0.4,Deceased (based on date of death),Non-Fully Vaccinated
+20/3/2022 0:00,1.5,ICU,Non-Fully Vaccinated
+19/3/2022 0:00,1.58,ICU,Non-Fully Vaccinated
+19/3/2022 0:00,0.51,ICU,Fully Vaccinated
+19/3/2022 0:00,0.34,Deceased (based on date of death),Non-Fully Vaccinated
+19/3/2022 0:00,0.13,Deceased (based on date of death),Fully Vaccinated
+6/3/2022 0:00,1.96,ICU,Non-Fully Vaccinated
+6/3/2022 0:00,0.8,ICU,Fully Vaccinated
+6/3/2022 0:00,0.34,Deceased (based on date of death),Non-Fully Vaccinated
+6/3/2022 0:00,0.16,Deceased (based on date of death),Fully Vaccinated
+7/3/2022 0:00,0.81,ICU,Fully Vaccinated
+7/3/2022 0:00,0.15,Deceased (based on date of death),Fully Vaccinated
+7/3/2022 0:00,0.39,Deceased (based on date of death),Non-Fully Vaccinated
+7/3/2022 0:00,2,ICU,Non-Fully Vaccinated
+8/3/2022 0:00,0.8,ICU,Fully Vaccinated
+8/3/2022 0:00,0.45,Deceased (based on date of death),Non-Fully Vaccinated
+8/3/2022 0:00,0.16,Deceased (based on date of death),Fully Vaccinated
+8/3/2022 0:00,2.02,ICU,Non-Fully Vaccinated
+9/3/2022 0:00,0.78,ICU,Fully Vaccinated
+9/3/2022 0:00,0.15,Deceased (based on date of death),Fully Vaccinated
+9/3/2022 0:00,0.46,Deceased (based on date of death),Non-Fully Vaccinated
+9/3/2022 0:00,2.14,ICU,Non-Fully Vaccinated
+10/3/2022 0:00,2.15,ICU,Non-Fully Vaccinated
+10/3/2022 0:00,0.57,Deceased (based on date of death),Non-Fully Vaccinated
+10/3/2022 0:00,0.73,ICU,Fully Vaccinated
+10/3/2022 0:00,0.14,Deceased (based on date of death),Fully Vaccinated
+11/3/2022 0:00,0.71,ICU,Fully Vaccinated
+11/3/2022 0:00,2.14,ICU,Non-Fully Vaccinated
+11/3/2022 0:00,0.54,Deceased (based on date of death),Non-Fully Vaccinated
+11/3/2022 0:00,0.13,Deceased (based on date of death),Fully Vaccinated
+12/3/2022 0:00,0.57,Deceased (based on date of death),Non-Fully Vaccinated
+12/3/2022 0:00,0.69,ICU,Fully Vaccinated
+12/3/2022 0:00,0.14,Deceased (based on date of death),Fully Vaccinated
+12/3/2022 0:00,2.13,ICU,Non-Fully Vaccinated
+13/3/2022 0:00,0.13,Deceased (based on date of death),Fully Vaccinated
+13/3/2022 0:00,2.05,ICU,Non-Fully Vaccinated
+13/3/2022 0:00,0.65,ICU,Fully Vaccinated
+13/3/2022 0:00,0.52,Deceased (based on date of death),Non-Fully Vaccinated
+14/3/2022 0:00,0.61,ICU,Fully Vaccinated
+14/3/2022 0:00,0.49,Deceased (based on date of death),Non-Fully Vaccinated
+14/3/2022 0:00,2.01,ICU,Non-Fully Vaccinated
+14/3/2022 0:00,0.13,Deceased (based on date of death),Fully Vaccinated
+15/3/2022 0:00,0.11,Deceased (based on date of death),Fully Vaccinated
+15/3/2022 0:00,1.99,ICU,Non-Fully Vaccinated
+15/3/2022 0:00,0.58,ICU,Fully Vaccinated
+15/3/2022 0:00,0.47,Deceased (based on date of death),Non-Fully Vaccinated
+16/3/2022 0:00,1.84,ICU,Non-Fully Vaccinated
+16/3/2022 0:00,0.42,Deceased (based on date of death),Non-Fully Vaccinated
+16/3/2022 0:00,0.56,ICU,Fully Vaccinated
+16/3/2022 0:00,0.12,Deceased (based on date of death),Fully Vaccinated
+17/3/2022 0:00,0.28,Deceased (based on date of death),Non-Fully Vaccinated
+17/3/2022 0:00,1.76,ICU,Non-Fully Vaccinated
+17/3/2022 0:00,0.13,Deceased (based on date of death),Fully Vaccinated
+17/3/2022 0:00,0.55,ICU,Fully Vaccinated
+18/3/2022 0:00,1.72,ICU,Non-Fully Vaccinated
+18/3/2022 0:00,0.25,Deceased (based on date of death),Non-Fully Vaccinated
+18/3/2022 0:00,0.53,ICU,Fully Vaccinated
+18/3/2022 0:00,0.12,Deceased (based on date of death),Fully Vaccinated
+19/3/2022 0:00,0.2,Deceased (based on date of death),Non-Fully Vaccinated
+19/3/2022 0:00,0.11,Deceased (based on date of death),Fully Vaccinated
+24/3/2022 0:00,0.31,Deceased (based on date of death),Non-Fully Vaccinated
+25/3/2022 0:00,0.29,Deceased (based on date of death),Non-Fully Vaccinated
+25/3/2022 0:00,0.1,Deceased (based on date of death),Fully Vaccinated
+26/3/2022 0:00,0.26,Deceased (based on date of death),Non-Fully Vaccinated
+26/3/2022 0:00,0.1,Deceased (based on date of death),Fully Vaccinated
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
