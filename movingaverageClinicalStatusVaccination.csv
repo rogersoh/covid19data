@@ -1,85 +1,152 @@
-case per 100k population,as_of_date,vaccination_status,clinicalstatus
-0.08,19 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.1,20 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.09,21 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.08,22 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.07,23 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.07,24 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.06,25 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.07,26 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.05,27 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.06,28 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.06,29 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.07,30 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.06,31 March 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.04,1 April 2022,Fully Vaccinated (With Booster),Deceased (based on date of death)
-0.27,19 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.25,20 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.25,21 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.23,22 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.23,23 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.22,24 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.25,25 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.24,26 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.23,27 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.19,28 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.19,29 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.19,30 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.15,31 March 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.09,1 April 2022,Fully Vaccinated (Without Booster),Deceased (based on date of death)
-0.34,19 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.4,20 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.4,21 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.34,22 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.31,23 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.34,24 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.31,25 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.34,26 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.32,27 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.29,28 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.23,29 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.23,30 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.2,31 March 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.17,1 April 2022,Non-Fully Vaccinated,Deceased (based on date of death)
-0.54,19 March 2022,Fully Vaccinated (With Booster),ICU
-0.53,20 March 2022,Fully Vaccinated (With Booster),ICU
-0.52,21 March 2022,Fully Vaccinated (With Booster),ICU
-0.49,22 March 2022,Fully Vaccinated (With Booster),ICU
-0.47,23 March 2022,Fully Vaccinated (With Booster),ICU
-0.45,24 March 2022,Fully Vaccinated (With Booster),ICU
-0.45,25 March 2022,Fully Vaccinated (With Booster),ICU
-0.43,26 March 2022,Fully Vaccinated (With Booster),ICU
-0.43,27 March 2022,Fully Vaccinated (With Booster),ICU
-0.42,28 March 2022,Fully Vaccinated (With Booster),ICU
-0.42,29 March 2022,Fully Vaccinated (With Booster),ICU
-0.41,30 March 2022,Fully Vaccinated (With Booster),ICU
-0.41,31 March 2022,Fully Vaccinated (With Booster),ICU
-0.39,1 April 2022,Fully Vaccinated (With Booster),ICU
-0.43,19 March 2022,Fully Vaccinated (Without Booster),ICU
-0.38,20 March 2022,Fully Vaccinated (Without Booster),ICU
-0.34,21 March 2022,Fully Vaccinated (Without Booster),ICU
-0.3,22 March 2022,Fully Vaccinated (Without Booster),ICU
-0.29,23 March 2022,Fully Vaccinated (Without Booster),ICU
-0.31,24 March 2022,Fully Vaccinated (Without Booster),ICU
-0.35,25 March 2022,Fully Vaccinated (Without Booster),ICU
-0.37,26 March 2022,Fully Vaccinated (Without Booster),ICU
-0.36,27 March 2022,Fully Vaccinated (Without Booster),ICU
-0.38,28 March 2022,Fully Vaccinated (Without Booster),ICU
-0.39,29 March 2022,Fully Vaccinated (Without Booster),ICU
-0.42,30 March 2022,Fully Vaccinated (Without Booster),ICU
-0.46,31 March 2022,Fully Vaccinated (Without Booster),ICU
-0.44,1 April 2022,Fully Vaccinated (Without Booster),ICU
-1.58,19 March 2022,Non-Fully Vaccinated,ICU
-1.5,20 March 2022,Non-Fully Vaccinated,ICU
-1.36,21 March 2022,Non-Fully Vaccinated,ICU
-1.19,22 March 2022,Non-Fully Vaccinated,ICU
-1.08,23 March 2022,Non-Fully Vaccinated,ICU
-1.03,24 March 2022,Non-Fully Vaccinated,ICU
-0.91,25 March 2022,Non-Fully Vaccinated,ICU
-0.89,26 March 2022,Non-Fully Vaccinated,ICU
-0.89,27 March 2022,Non-Fully Vaccinated,ICU
-0.89,28 March 2022,Non-Fully Vaccinated,ICU
-0.92,29 March 2022,Non-Fully Vaccinated,ICU
-0.96,30 March 2022,Non-Fully Vaccinated,ICU
-0.96,31 March 2022,Non-Fully Vaccinated,ICU
-0.99,1 April 2022,Non-Fully Vaccinated,ICU
+as_of_date,case per 100k population,clinicalstatus,vaccination_status
+19 Mar 2022,0.08,Deceased (based on date of death),Fully Vaccinated (With Booster)
+19 Mar 2022,0.27,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+19 Mar 2022,0.34,Deceased (based on date of death),Non-Fully Vaccinated
+19 Mar 2022,0.54,ICU,Fully Vaccinated (With Booster)
+19 Mar 2022,0.43,ICU,Fully Vaccinated (Without Booster)
+19 Mar 2022,1.58,ICU,Non-Fully Vaccinated
+20 Mar 2022,0.1,Deceased (based on date of death),Fully Vaccinated (With Booster)
+20 Mar 2022,0.25,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+20 Mar 2022,0.4,Deceased (based on date of death),Non-Fully Vaccinated
+20 Mar 2022,0.53,ICU,Fully Vaccinated (With Booster)
+20 Mar 2022,0.38,ICU,Fully Vaccinated (Without Booster)
+20 Mar 2022,1.5,ICU,Non-Fully Vaccinated
+21 Mar 2022,0.09,Deceased (based on date of death),Fully Vaccinated (With Booster)
+21 Mar 2022,0.25,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+21 Mar 2022,0.4,Deceased (based on date of death),Non-Fully Vaccinated
+21 Mar 2022,0.52,ICU,Fully Vaccinated (With Booster)
+21 Mar 2022,0.34,ICU,Fully Vaccinated (Without Booster)
+21 Mar 2022,1.36,ICU,Non-Fully Vaccinated
+22 Mar 2022,0.08,Deceased (based on date of death),Fully Vaccinated (With Booster)
+22 Mar 2022,0.23,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+22 Mar 2022,0.34,Deceased (based on date of death),Non-Fully Vaccinated
+22 Mar 2022,0.49,ICU,Fully Vaccinated (With Booster)
+22 Mar 2022,0.3,ICU,Fully Vaccinated (Without Booster)
+22 Mar 2022,1.19,ICU,Non-Fully Vaccinated
+23 Mar 2022,0.07,Deceased (based on date of death),Fully Vaccinated (With Booster)
+23 Mar 2022,0.23,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+23 Mar 2022,0.31,Deceased (based on date of death),Non-Fully Vaccinated
+23 Mar 2022,0.47,ICU,Fully Vaccinated (With Booster)
+23 Mar 2022,0.29,ICU,Fully Vaccinated (Without Booster)
+23 Mar 2022,1.08,ICU,Non-Fully Vaccinated
+24 Mar 2022,0.07,Deceased (based on date of death),Fully Vaccinated (With Booster)
+24 Mar 2022,0.22,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+24 Mar 2022,0.34,Deceased (based on date of death),Non-Fully Vaccinated
+24 Mar 2022,0.45,ICU,Fully Vaccinated (With Booster)
+24 Mar 2022,0.31,ICU,Fully Vaccinated (Without Booster)
+24 Mar 2022,1.03,ICU,Non-Fully Vaccinated
+25 Mar 2022,0.06,Deceased (based on date of death),Fully Vaccinated (With Booster)
+25 Mar 2022,0.25,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+25 Mar 2022,0.31,Deceased (based on date of death),Non-Fully Vaccinated
+25 Mar 2022,0.45,ICU,Fully Vaccinated (With Booster)
+25 Mar 2022,0.35,ICU,Fully Vaccinated (Without Booster)
+25 Mar 2022,0.91,ICU,Non-Fully Vaccinated
+26 Mar 2022,0.07,Deceased (based on date of death),Fully Vaccinated (With Booster)
+26 Mar 2022,0.24,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+26 Mar 2022,0.34,Deceased (based on date of death),Non-Fully Vaccinated
+26 Mar 2022,0.43,ICU,Fully Vaccinated (With Booster)
+26 Mar 2022,0.37,ICU,Fully Vaccinated (Without Booster)
+26 Mar 2022,0.89,ICU,Non-Fully Vaccinated
+27 Mar 2022,0.05,Deceased (based on date of death),Fully Vaccinated (With Booster)
+27 Mar 2022,0.23,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+27 Mar 2022,0.32,Deceased (based on date of death),Non-Fully Vaccinated
+27 Mar 2022,0.43,ICU,Fully Vaccinated (With Booster)
+27 Mar 2022,0.36,ICU,Fully Vaccinated (Without Booster)
+27 Mar 2022,0.89,ICU,Non-Fully Vaccinated
+28 Mar 2022,0.06,Deceased (based on date of death),Fully Vaccinated (With Booster)
+28 Mar 2022,0.19,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+28 Mar 2022,0.29,Deceased (based on date of death),Non-Fully Vaccinated
+28 Mar 2022,0.42,ICU,Fully Vaccinated (With Booster)
+28 Mar 2022,0.38,ICU,Fully Vaccinated (Without Booster)
+28 Mar 2022,0.89,ICU,Non-Fully Vaccinated
+29 Mar 2022,0.06,Deceased (based on date of death),Fully Vaccinated (With Booster)
+29 Mar 2022,0.19,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+29 Mar 2022,0.23,Deceased (based on date of death),Non-Fully Vaccinated
+29 Mar 2022,0.42,ICU,Fully Vaccinated (With Booster)
+29 Mar 2022,0.39,ICU,Fully Vaccinated (Without Booster)
+29 Mar 2022,0.92,ICU,Non-Fully Vaccinated
+30 Mar 2022,0.07,Deceased (based on date of death),Fully Vaccinated (With Booster)
+30 Mar 2022,0.19,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+30 Mar 2022,0.23,Deceased (based on date of death),Non-Fully Vaccinated
+30 Mar 2022,0.41,ICU,Fully Vaccinated (With Booster)
+30 Mar 2022,0.42,ICU,Fully Vaccinated (Without Booster)
+30 Mar 2022,0.96,ICU,Non-Fully Vaccinated
+31 Mar 2022,0.06,Deceased (based on date of death),Fully Vaccinated (With Booster)
+31 Mar 2022,0.15,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+31 Mar 2022,0.2,Deceased (based on date of death),Non-Fully Vaccinated
+31 Mar 2022,0.41,ICU,Fully Vaccinated (With Booster)
+31 Mar 2022,0.46,ICU,Fully Vaccinated (Without Booster)
+31 Mar 2022,0.96,ICU,Non-Fully Vaccinated
+1 Apr 2022,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
+1 Apr 2022,0.09,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+1 Apr 2022,0.17,Deceased (based on date of death),Non-Fully Vaccinated
+1 Apr 2022,0.39,ICU,Fully Vaccinated (With Booster)
+1 Apr 2022,0.44,ICU,Fully Vaccinated (Without Booster)
+1 Apr 2022,0.99,ICU,Non-Fully Vaccinated
+1 Apr 2022,0.2,Deceased (based on date of death),Non-Fully Vaccinated
+2 Apr 2022,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+2 Apr 2022,0.06,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+2 Apr 2022,0.18,Deceased (based on date of death),Non-Fully Vaccinated
+2 Apr 2022,0.38,ICU,Fully Vaccinated (With Booster)
+2 Apr 2022,0.44,ICU,Fully Vaccinated (Without Booster)
+2 Apr 2022,0.99,ICU,Non-Fully Vaccinated
+3 Apr 2022,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
+3 Apr 2022,0.09,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+3 Apr 2022,0.21,Deceased (based on date of death),Non-Fully Vaccinated
+3 Apr 2022,0.37,ICU,Fully Vaccinated (With Booster)
+3 Apr 2022,0.48,ICU,Fully Vaccinated (Without Booster)
+3 Apr 2022,0.97,ICU,Non-Fully Vaccinated
+4 Apr 2022,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
+4 Apr 2022,0.1,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+4 Apr 2022,0.21,Deceased (based on date of death),Non-Fully Vaccinated
+4 Apr 2022,0.36,ICU,Fully Vaccinated (With Booster)
+4 Apr 2022,0.48,ICU,Fully Vaccinated (Without Booster)
+4 Apr 2022,0.91,ICU,Non-Fully Vaccinated
+5 Apr 2022,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
+5 Apr 2022,0.1,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+5 Apr 2022,0.18,Deceased (based on date of death),Non-Fully Vaccinated
+5 Apr 2022,0.34,ICU,Fully Vaccinated (With Booster)
+5 Apr 2022,0.45,ICU,Fully Vaccinated (Without Booster)
+5 Apr 2022,0.88,ICU,Non-Fully Vaccinated
+6 Apr 2022,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
+6 Apr 2022,0.09,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+6 Apr 2022,0.18,Deceased (based on date of death),Non-Fully Vaccinated
+6 Apr 2022,0.32,ICU,Fully Vaccinated (With Booster)
+6 Apr 2022,0.39,ICU,Fully Vaccinated (Without Booster)
+6 Apr 2022,0.86,ICU,Non-Fully Vaccinated
+7 Apr 2022,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+7 Apr 2022,0.09,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+7 Apr 2022,0.21,Deceased (based on date of death),Non-Fully Vaccinated
+7 Apr 2022,0.29,ICU,Fully Vaccinated (With Booster)
+7 Apr 2022,0.33,ICU,Fully Vaccinated (Without Booster)
+7 Apr 2022,0.83,ICU,Non-Fully Vaccinated
+8 Apr 2022,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+8 Apr 2022,0.11,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+8 Apr 2022,0.18,Deceased (based on date of death),Non-Fully Vaccinated
+8 Apr 2022,0.28,ICU,Fully Vaccinated (With Booster)
+8 Apr 2022,0.33,ICU,Fully Vaccinated (Without Booster)
+8 Apr 2022,0.77,ICU,Non-Fully Vaccinated
+9 Apr 2022,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+9 Apr 2022,0.12,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+9 Apr 2022,0.18,Deceased (based on date of death),Non-Fully Vaccinated
+9 Apr 2022,0.27,ICU,Fully Vaccinated (With Booster)
+9 Apr 2022,0.33,ICU,Fully Vaccinated (Without Booster)
+9 Apr 2022,0.77,ICU,Non-Fully Vaccinated
+10 Apr 2022,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+10 Apr 2022,0.09,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+10 Apr 2022,0.15,Deceased (based on date of death),Non-Fully Vaccinated
+10 Apr 2022,0.26,ICU,Fully Vaccinated (With Booster)
+10 Apr 2022,0.31,ICU,Fully Vaccinated (Without Booster)
+10 Apr 2022,0.77,ICU,Non-Fully Vaccinated
+11 Apr 2022,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
+11 Apr 2022,0.08,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+11 Apr 2022,0.18,Deceased (based on date of death),Non-Fully Vaccinated
+11 Apr 2022,0.25,ICU,Fully Vaccinated (With Booster)
+11 Apr 2022,0.3,ICU,Fully Vaccinated (Without Booster)
+11 Apr 2022,0.8,ICU,Non-Fully Vaccinated
+12 Apr 2022,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+12 Apr 2022,0.07,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+12 Apr 2022,0.18,Deceased (based on date of death),Non-Fully Vaccinated
+12 Apr 2022,0.27,ICU,Fully Vaccinated (With Booster)
+12 Apr 2022,0.31,ICU,Fully Vaccinated (Without Booster)
+12 Apr 2022,0.74,ICU,Non-Fully Vaccinated
