@@ -1,34 +1,114 @@
 as_of_date,case,clinicalstatus,vaccination_status
+19-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+19-Jun-22,0.06,ICU,Fully Vaccinated
+19-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+19-Jun-22,0.17,ICU,Non-Fully Vaccinated
+18-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+18-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+18-Jun-22,0.05,ICU,Fully Vaccinated
+18-Jun-22,0.09,ICU,Non-Fully Vaccinated
+17-Jun-22,0.03,ICU,Non-Fully Vaccinated
+17-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+17-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+17-Jun-22,0.04,ICU,Fully Vaccinated
+16-Jun-22,0,ICU,Non-Fully Vaccinated
+16-Jun-22,0,Deceased (based on date of death),Fully Vaccinated
+16-Jun-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
+16-Jun-22,0.04,ICU,Fully Vaccinated
+15-Jun-22,0.05,ICU,Fully Vaccinated
+15-Jun-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
+15-Jun-22,0.03,ICU,Non-Fully Vaccinated
+15-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+14-Jun-22,0.14,Deceased (based on date of death),Non-Fully Vaccinated
+14-Jun-22,0.11,ICU,Non-Fully Vaccinated
+14-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+14-Jun-22,0.06,ICU,Fully Vaccinated
+13-Jun-22,0.2,ICU,Non-Fully Vaccinated
+13-Jun-22,0.07,ICU,Fully Vaccinated
+13-Jun-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
+13-Jun-22,0,Deceased (based on date of death),Fully Vaccinated
+12-Jun-22,0,Deceased (based on date of death),Fully Vaccinated
+12-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+12-Jun-22,0.08,ICU,Fully Vaccinated
+12-Jun-22,0.28,ICU,Non-Fully Vaccinated
+11-Jun-22,0.09,ICU,Fully Vaccinated
+11-Jun-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
+11-Jun-22,0.37,ICU,Non-Fully Vaccinated
+11-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+10-Jun-22,0.45,ICU,Non-Fully Vaccinated
+10-Jun-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
+10-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+10-Jun-22,0.09,ICU,Fully Vaccinated
+9-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+9-Jun-22,0.59,ICU,Non-Fully Vaccinated
+9-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+9-Jun-22,0.11,ICU,Fully Vaccinated
+8-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+8-Jun-22,0.11,ICU,Fully Vaccinated
+8-Jun-22,0.65,ICU,Non-Fully Vaccinated
+8-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
 7-Jun-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
+7-Jun-22,0.68,ICU,Non-Fully Vaccinated
 7-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
-6-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+7-Jun-22,0.11,ICU,Fully Vaccinated
 6-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
-5-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+6-Jun-22,0.12,ICU,Fully Vaccinated
+6-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+6-Jun-22,0.7,ICU,Non-Fully Vaccinated
+5-Jun-22,0.12,ICU,Fully Vaccinated
 5-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
-4-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+5-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+5-Jun-22,0.7,ICU,Non-Fully Vaccinated
+4-Jun-22,0.7,ICU,Non-Fully Vaccinated
+4-Jun-22,0.12,ICU,Fully Vaccinated
 4-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
-3-Jun-22,0.03,Deceased (based on date of death),Non-Fully Vaccinated
+4-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
 3-Jun-22,0.02,Deceased (based on date of death),Fully Vaccinated
-2-Jun-22,0.03,Deceased (based on date of death),Non-Fully Vaccinated
+3-Jun-22,0.12,ICU,Fully Vaccinated
+3-Jun-22,0.67,ICU,Non-Fully Vaccinated
+3-Jun-22,0.03,Deceased (based on date of death),Non-Fully Vaccinated
+2-Jun-22,0.59,ICU,Non-Fully Vaccinated
 2-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+2-Jun-22,0.03,Deceased (based on date of death),Non-Fully Vaccinated
+2-Jun-22,0.12,ICU,Fully Vaccinated
+1-Jun-22,0.12,ICU,Fully Vaccinated
+1-Jun-22,0.56,ICU,Non-Fully Vaccinated
 1-Jun-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 1-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated
+31-May-22,0.11,ICU,Fully Vaccinated
 31-May-22,0.02,Deceased (based on date of death),Fully Vaccinated
+31-May-22,0.51,ICU,Non-Fully Vaccinated
 31-May-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
-30-May-22,0.03,Deceased (based on date of death),Non-Fully Vaccinated
 30-May-22,0.02,Deceased (based on date of death),Fully Vaccinated
-29-May-22,0.03,Deceased (based on date of death),Non-Fully Vaccinated
+30-May-22,0.45,ICU,Non-Fully Vaccinated
+30-May-22,0.03,Deceased (based on date of death),Non-Fully Vaccinated
+30-May-22,0.1,ICU,Fully Vaccinated
 29-May-22,0.02,Deceased (based on date of death),Fully Vaccinated
-28-May-22,0.03,Deceased (based on date of death),Non-Fully Vaccinated
+29-May-22,0.03,Deceased (based on date of death),Non-Fully Vaccinated
+29-May-22,0.42,ICU,Non-Fully Vaccinated
+29-May-22,0.09,ICU,Fully Vaccinated
 28-May-22,0.02,Deceased (based on date of death),Fully Vaccinated
+28-May-22,0.03,Deceased (based on date of death),Non-Fully Vaccinated
+28-May-22,0.39,ICU,Non-Fully Vaccinated
+28-May-22,0.08,ICU,Fully Vaccinated
 27-May-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
+27-May-22,0.08,ICU,Fully Vaccinated
+27-May-22,0.36,ICU,Non-Fully Vaccinated
 27-May-22,0.01,Deceased (based on date of death),Fully Vaccinated
-26-May-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+26-May-22,0.09,ICU,Fully Vaccinated
 26-May-22,0.01,Deceased (based on date of death),Fully Vaccinated
+26-May-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+26-May-22,0.34,ICU,Non-Fully Vaccinated
+25-May-22,0.09,ICU,Fully Vaccinated
 25-May-22,0.01,Deceased (based on date of death),Fully Vaccinated
 25-May-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
-24-May-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
+25-May-22,0.31,ICU,Non-Fully Vaccinated
+24-May-22,0.1,ICU,Fully Vaccinated
 24-May-22,0.02,Deceased (based on date of death),Fully Vaccinated
+24-May-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
+24-May-22,0.31,ICU,Non-Fully Vaccinated
+23-May-22,0.31,ICU,Non-Fully Vaccinated
+23-May-22,0.11,ICU,Fully Vaccinated
 23-May-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 23-May-22,0.01,Deceased (based on date of death),Fully Vaccinated
 22-May-22,0.01,Deceased (based on date of death),Fully Vaccinated
@@ -209,116 +289,6 @@ as_of_date,case,clinicalstatus,vaccination_status
 7-Mar-22,0.39,Deceased (based on date of death),Non-Fully Vaccinated
 6-Mar-22,0.34,Deceased (based on date of death),Non-Fully Vaccinated
 6-Mar-22,0.16,Deceased (based on date of death),Fully Vaccinated
-7-Jun-22,0.11,ICU,Fully Vaccinated
-6-Jun-22,0.12,ICU,Fully Vaccinated
-5-Jun-22,0.12,ICU,Fully Vaccinated
-4-Jun-22,0.12,ICU,Fully Vaccinated
-3-Jun-22,0.12,ICU,Fully Vaccinated
-2-Jun-22,0.12,ICU,Fully Vaccinated
-1-Jun-22,0.12,ICU,Fully Vaccinated
-31-May-22,0.11,ICU,Fully Vaccinated
-30-May-22,0.1,ICU,Fully Vaccinated
-29-May-22,0.09,ICU,Fully Vaccinated
-28-May-22,0.08,ICU,Fully Vaccinated
-27-May-22,0.08,ICU,Fully Vaccinated
-26-May-22,0.09,ICU,Fully Vaccinated
-25-May-22,0.09,ICU,Fully Vaccinated
-24-May-22,0.1,ICU,Fully Vaccinated
-23-May-22,0.11,ICU,Fully Vaccinated
-22-May-22,0.12,ICU,Fully Vaccinated
-21-May-22,0.13,ICU,Fully Vaccinated
-20-May-22,0.13,ICU,Fully Vaccinated
-19-May-22,0.12,ICU,Fully Vaccinated
-18-May-22,0.12,ICU,Fully Vaccinated
-17-May-22,0.11,ICU,Fully Vaccinated
-16-May-22,0.11,ICU,Fully Vaccinated
-15-May-22,0.11,ICU,Fully Vaccinated
-14-May-22,0.1,ICU,Fully Vaccinated
-13-May-22,0.1,ICU,Fully Vaccinated
-12-May-22,0.1,ICU,Fully Vaccinated
-11-May-22,0.1,ICU,Fully Vaccinated
-10-May-22,0.1,ICU,Fully Vaccinated
-9-May-22,0.09,ICU,Fully Vaccinated
-8-May-22,0.09,ICU,Fully Vaccinated
-7-May-22,0.09,ICU,Fully Vaccinated
-6-May-22,0.09,ICU,Fully Vaccinated
-5-May-22,0.09,ICU,Fully Vaccinated
-4-May-22,0.09,ICU,Fully Vaccinated
-3-May-22,0.08,ICU,Fully Vaccinated
-2-May-22,0.08,ICU,Fully Vaccinated
-1-May-22,0.08,ICU,Fully Vaccinated
-30-Apr-22,0.08,ICU,Fully Vaccinated
-29-Apr-22,0.08,ICU,Fully Vaccinated
-28-Apr-22,0.09,ICU,Fully Vaccinated
-27-Apr-22,0.1,ICU,Fully Vaccinated
-26-Apr-22,0.1,ICU,Fully Vaccinated
-25-Apr-22,0.12,ICU,Fully Vaccinated
-24-Apr-22,0.13,ICU,Fully Vaccinated
-23-Apr-22,0.12,ICU,Fully Vaccinated
-22-Apr-22,0.13,ICU,Fully Vaccinated
-21-Apr-22,0.13,ICU,Fully Vaccinated
-20-Apr-22,0.14,ICU,Fully Vaccinated
-19-Apr-22,0.16,ICU,Fully Vaccinated
-18-Apr-22,0.19,ICU,Fully Vaccinated
-17-Apr-22,0.2,ICU,Fully Vaccinated
-16-Apr-22,0.23,ICU,Fully Vaccinated
-15-Apr-22,0.25,ICU,Fully Vaccinated
-14-Apr-22,0.27,ICU,Fully Vaccinated
-13-Apr-22,0.28,ICU,Fully Vaccinated
-12-Apr-22,0.28,ICU,Fully Vaccinated
-11-Apr-22,0.26,ICU,Fully Vaccinated
-10-Apr-22,0.27,ICU,Fully Vaccinated
-9-Apr-22,0.28,ICU,Fully Vaccinated
-8-Apr-22,0.29,ICU,Fully Vaccinated
-7-Apr-22,0.3,ICU,Fully Vaccinated
-6-Apr-22,0.33,ICU,Fully Vaccinated
-5-Apr-22,0.36,ICU,Fully Vaccinated
-4-Apr-22,0.39,ICU,Fully Vaccinated
-3-Apr-22,0.4,ICU,Fully Vaccinated
-2-Apr-22,0.4,ICU,Fully Vaccinated
-1-Apr-22,0.4,ICU,Fully Vaccinated
-31-Mar-22,0.42,ICU,Fully Vaccinated
-30-Mar-22,0.41,ICU,Fully Vaccinated
-29-Mar-22,0.41,ICU,Fully Vaccinated
-28-Mar-22,0.41,ICU,Fully Vaccinated
-27-Mar-22,0.41,ICU,Fully Vaccinated
-26-Mar-22,0.42,ICU,Fully Vaccinated
-25-Mar-22,0.42,ICU,Fully Vaccinated
-24-Mar-22,0.42,ICU,Fully Vaccinated
-23-Mar-22,0.43,ICU,Fully Vaccinated
-22-Mar-22,0.44,ICU,Fully Vaccinated
-21-Mar-22,0.47,ICU,Fully Vaccinated
-20-Mar-22,0.49,ICU,Fully Vaccinated
-19-Mar-22,0.51,ICU,Fully Vaccinated
-18-Mar-22,0.53,ICU,Fully Vaccinated
-17-Mar-22,0.55,ICU,Fully Vaccinated
-16-Mar-22,0.56,ICU,Fully Vaccinated
-15-Mar-22,0.58,ICU,Fully Vaccinated
-14-Mar-22,0.61,ICU,Fully Vaccinated
-13-Mar-22,0.65,ICU,Fully Vaccinated
-12-Mar-22,0.69,ICU,Fully Vaccinated
-11-Mar-22,0.71,ICU,Fully Vaccinated
-10-Mar-22,0.73,ICU,Fully Vaccinated
-9-Mar-22,0.78,ICU,Fully Vaccinated
-8-Mar-22,0.8,ICU,Fully Vaccinated
-7-Mar-22,0.81,ICU,Fully Vaccinated
-6-Mar-22,0.8,ICU,Fully Vaccinated
-7-Jun-22,0.68,ICU,Non-Fully Vaccinated
-6-Jun-22,0.7,ICU,Non-Fully Vaccinated
-5-Jun-22,0.7,ICU,Non-Fully Vaccinated
-4-Jun-22,0.7,ICU,Non-Fully Vaccinated
-3-Jun-22,0.67,ICU,Non-Fully Vaccinated
-2-Jun-22,0.59,ICU,Non-Fully Vaccinated
-1-Jun-22,0.56,ICU,Non-Fully Vaccinated
-31-May-22,0.51,ICU,Non-Fully Vaccinated
-30-May-22,0.45,ICU,Non-Fully Vaccinated
-29-May-22,0.42,ICU,Non-Fully Vaccinated
-28-May-22,0.39,ICU,Non-Fully Vaccinated
-27-May-22,0.36,ICU,Non-Fully Vaccinated
-26-May-22,0.34,ICU,Non-Fully Vaccinated
-25-May-22,0.31,ICU,Non-Fully Vaccinated
-24-May-22,0.31,ICU,Non-Fully Vaccinated
-23-May-22,0.31,ICU,Non-Fully Vaccinated
 22-May-22,0.31,ICU,Non-Fully Vaccinated
 21-May-22,0.34,ICU,Non-Fully Vaccinated
 20-May-22,0.4,ICU,Non-Fully Vaccinated
@@ -397,3 +367,81 @@ as_of_date,case,clinicalstatus,vaccination_status
 8-Mar-22,2.02,ICU,Non-Fully Vaccinated
 7-Mar-22,2,ICU,Non-Fully Vaccinated
 6-Mar-22,1.96,ICU,Non-Fully Vaccinated
+22-May-22,0.12,ICU,Fully Vaccinated
+21-May-22,0.13,ICU,Fully Vaccinated
+20-May-22,0.13,ICU,Fully Vaccinated
+19-May-22,0.12,ICU,Fully Vaccinated
+18-May-22,0.12,ICU,Fully Vaccinated
+17-May-22,0.11,ICU,Fully Vaccinated
+16-May-22,0.11,ICU,Fully Vaccinated
+15-May-22,0.11,ICU,Fully Vaccinated
+14-May-22,0.1,ICU,Fully Vaccinated
+13-May-22,0.1,ICU,Fully Vaccinated
+12-May-22,0.1,ICU,Fully Vaccinated
+11-May-22,0.1,ICU,Fully Vaccinated
+10-May-22,0.1,ICU,Fully Vaccinated
+9-May-22,0.09,ICU,Fully Vaccinated
+8-May-22,0.09,ICU,Fully Vaccinated
+7-May-22,0.09,ICU,Fully Vaccinated
+6-May-22,0.09,ICU,Fully Vaccinated
+5-May-22,0.09,ICU,Fully Vaccinated
+4-May-22,0.09,ICU,Fully Vaccinated
+3-May-22,0.08,ICU,Fully Vaccinated
+2-May-22,0.08,ICU,Fully Vaccinated
+1-May-22,0.08,ICU,Fully Vaccinated
+30-Apr-22,0.08,ICU,Fully Vaccinated
+29-Apr-22,0.08,ICU,Fully Vaccinated
+28-Apr-22,0.09,ICU,Fully Vaccinated
+27-Apr-22,0.1,ICU,Fully Vaccinated
+26-Apr-22,0.1,ICU,Fully Vaccinated
+25-Apr-22,0.12,ICU,Fully Vaccinated
+24-Apr-22,0.13,ICU,Fully Vaccinated
+23-Apr-22,0.12,ICU,Fully Vaccinated
+22-Apr-22,0.13,ICU,Fully Vaccinated
+21-Apr-22,0.13,ICU,Fully Vaccinated
+20-Apr-22,0.14,ICU,Fully Vaccinated
+19-Apr-22,0.16,ICU,Fully Vaccinated
+18-Apr-22,0.19,ICU,Fully Vaccinated
+17-Apr-22,0.2,ICU,Fully Vaccinated
+16-Apr-22,0.23,ICU,Fully Vaccinated
+15-Apr-22,0.25,ICU,Fully Vaccinated
+14-Apr-22,0.27,ICU,Fully Vaccinated
+13-Apr-22,0.28,ICU,Fully Vaccinated
+12-Apr-22,0.28,ICU,Fully Vaccinated
+11-Apr-22,0.26,ICU,Fully Vaccinated
+10-Apr-22,0.27,ICU,Fully Vaccinated
+9-Apr-22,0.28,ICU,Fully Vaccinated
+8-Apr-22,0.29,ICU,Fully Vaccinated
+7-Apr-22,0.3,ICU,Fully Vaccinated
+6-Apr-22,0.33,ICU,Fully Vaccinated
+5-Apr-22,0.36,ICU,Fully Vaccinated
+4-Apr-22,0.39,ICU,Fully Vaccinated
+3-Apr-22,0.4,ICU,Fully Vaccinated
+2-Apr-22,0.4,ICU,Fully Vaccinated
+1-Apr-22,0.4,ICU,Fully Vaccinated
+31-Mar-22,0.42,ICU,Fully Vaccinated
+30-Mar-22,0.41,ICU,Fully Vaccinated
+29-Mar-22,0.41,ICU,Fully Vaccinated
+28-Mar-22,0.41,ICU,Fully Vaccinated
+27-Mar-22,0.41,ICU,Fully Vaccinated
+26-Mar-22,0.42,ICU,Fully Vaccinated
+25-Mar-22,0.42,ICU,Fully Vaccinated
+24-Mar-22,0.42,ICU,Fully Vaccinated
+23-Mar-22,0.43,ICU,Fully Vaccinated
+22-Mar-22,0.44,ICU,Fully Vaccinated
+21-Mar-22,0.47,ICU,Fully Vaccinated
+20-Mar-22,0.49,ICU,Fully Vaccinated
+19-Mar-22,0.51,ICU,Fully Vaccinated
+18-Mar-22,0.53,ICU,Fully Vaccinated
+17-Mar-22,0.55,ICU,Fully Vaccinated
+16-Mar-22,0.56,ICU,Fully Vaccinated
+15-Mar-22,0.58,ICU,Fully Vaccinated
+14-Mar-22,0.61,ICU,Fully Vaccinated
+13-Mar-22,0.65,ICU,Fully Vaccinated
+12-Mar-22,0.69,ICU,Fully Vaccinated
+11-Mar-22,0.71,ICU,Fully Vaccinated
+10-Mar-22,0.73,ICU,Fully Vaccinated
+9-Mar-22,0.78,ICU,Fully Vaccinated
+8-Mar-22,0.8,ICU,Fully Vaccinated
+7-Mar-22,0.81,ICU,Fully Vaccinated
+6-Mar-22,0.8,ICU,Fully Vaccinated
