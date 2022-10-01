@@ -335,6 +335,24 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 20-Aug-22,0.13,ICU,Fully Vaccinated (Without Booster)
 21-Aug-22,0.09,ICU,Fully Vaccinated (Without Booster)
 22-Aug-22,0.04,ICU,Fully Vaccinated (Without Booster)
+23-Aug-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+24-Aug-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+25-Aug-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+26-Aug-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+27-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+28-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+29-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+30-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+31-Aug-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+23-Aug-22,0.02,ICU,Fully Vaccinated (Without Booster)
+24-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
+25-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
+26-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
+27-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
+28-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
+29-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
+30-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
+31-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
 19-Mar-22,0.08,Deceased (based on date of death),Fully Vaccinated (With Booster)
 19-Mar-22,0.54,ICU,Fully Vaccinated (With Booster)
 20-Mar-22,0.1,Deceased (based on date of death),Fully Vaccinated (With Booster)
@@ -662,6 +680,24 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 20-Aug-22,0.22,ICU,Fully Vaccinated (With Booster)
 21-Aug-22,0.2,ICU,Fully Vaccinated (With Booster)
 22-Aug-22,0.18,ICU,Fully Vaccinated (With Booster)
+23-Aug-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+24-Aug-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+25-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
+26-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
+27-Aug-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
+28-Aug-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
+29-Aug-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
+30-Aug-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
+31-Aug-22,0,Deceased (based on date of death),Fully Vaccinated (With Booster)
+23-Aug-22,0.16,ICU,Fully Vaccinated (With Booster)
+24-Aug-22,0.15,ICU,Fully Vaccinated (With Booster)
+25-Aug-22,0.14,ICU,Fully Vaccinated (With Booster)
+26-Aug-22,0.13,ICU,Fully Vaccinated (With Booster)
+27-Aug-22,0.12,ICU,Fully Vaccinated (With Booster)
+28-Aug-22,0.11,ICU,Fully Vaccinated (With Booster)
+29-Aug-22,0.11,ICU,Fully Vaccinated (With Booster)
+30-Aug-22,0.11,ICU,Fully Vaccinated (With Booster)
+31-Aug-22,0.11,ICU,Fully Vaccinated (With Booster)
 19-Mar-22,0.34,Deceased (based on date of death),Non-Fully Vaccinated
 19-Mar-22,1.58,ICU,Non-Fully Vaccinated
 20-Mar-22,0.4,Deceased (based on date of death),Non-Fully Vaccinated
@@ -986,3 +1022,21 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 20-Aug-22,0.59,ICU,Non-Fully Vaccinated
 21-Aug-22,0.59,ICU,Non-Fully Vaccinated
 22-Aug-22,0.54,ICU,Non-Fully Vaccinated
+23-Aug-22,0.2,Deceased (based on date of death),Non-Fully Vaccinated
+24-Aug-22,0.17,Deceased (based on date of death),Non-Fully Vaccinated
+25-Aug-22,0.14,Deceased (based on date of death),Non-Fully Vaccinated
+26-Aug-22,0.14,Deceased (based on date of death),Non-Fully Vaccinated
+27-Aug-22,0.17,Deceased (based on date of death),Non-Fully Vaccinated
+28-Aug-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
+29-Aug-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
+30-Aug-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+31-Aug-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
+23-Aug-22,0.51,ICU,Non-Fully Vaccinated
+24-Aug-22,0.42,ICU,Non-Fully Vaccinated
+25-Aug-22,0.42,ICU,Non-Fully Vaccinated
+26-Aug-22,0.42,ICU,Non-Fully Vaccinated
+27-Aug-22,0.42,ICU,Non-Fully Vaccinated
+28-Aug-22,0.45,ICU,Non-Fully Vaccinated
+29-Aug-22,0.45,ICU,Non-Fully Vaccinated
+30-Aug-22,0.51,ICU,Non-Fully Vaccinated
+31-Aug-22,0.56,ICU,Non-Fully Vaccinated
