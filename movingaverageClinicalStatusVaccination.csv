@@ -1,20 +1,20 @@
 as_of_date,case per 100k population,clinicalstatus,vaccination_status
-19-Mar-22,0.08,Deceased (based on date of death),Fully Vaccinated (With Booster)
+19-Mar-22,0.54,ICU,Fully Vaccinated (With Booster)
 19-Mar-22,0.34,Deceased (based on date of death),Non-Fully Vaccinated
 19-Mar-22,1.58,ICU,Non-Fully Vaccinated
-19-Mar-22,0.54,ICU,Fully Vaccinated (With Booster)
-19-Mar-22,0.27,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+19-Mar-22,0.08,Deceased (based on date of death),Fully Vaccinated (With Booster)
 19-Mar-22,0.43,ICU,Fully Vaccinated (Without Booster)
+19-Mar-22,0.27,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 20-Mar-22,0.25,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 20-Mar-22,0.38,ICU,Fully Vaccinated (Without Booster)
 20-Mar-22,0.1,Deceased (based on date of death),Fully Vaccinated (With Booster)
 20-Mar-22,0.53,ICU,Fully Vaccinated (With Booster)
 20-Mar-22,0.4,Deceased (based on date of death),Non-Fully Vaccinated
 20-Mar-22,1.5,ICU,Non-Fully Vaccinated
-21-Mar-22,0.09,Deceased (based on date of death),Fully Vaccinated (With Booster)
+21-Mar-22,0.52,ICU,Fully Vaccinated (With Booster)
 21-Mar-22,0.25,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 21-Mar-22,0.34,ICU,Fully Vaccinated (Without Booster)
-21-Mar-22,0.52,ICU,Fully Vaccinated (With Booster)
+21-Mar-22,0.09,Deceased (based on date of death),Fully Vaccinated (With Booster)
 21-Mar-22,0.4,Deceased (based on date of death),Non-Fully Vaccinated
 21-Mar-22,1.36,ICU,Non-Fully Vaccinated
 22-Mar-22,0.23,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -65,9 +65,9 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 29-Mar-22,0.42,ICU,Fully Vaccinated (With Booster)
 29-Mar-22,0.23,Deceased (based on date of death),Non-Fully Vaccinated
 29-Mar-22,0.92,ICU,Non-Fully Vaccinated
-30-Mar-22,0.19,Deceased (based on date of death),Fully Vaccinated (Without Booster)
-30-Mar-22,0.07,Deceased (based on date of death),Fully Vaccinated (With Booster)
 30-Mar-22,0.42,ICU,Fully Vaccinated (Without Booster)
+30-Mar-22,0.07,Deceased (based on date of death),Fully Vaccinated (With Booster)
+30-Mar-22,0.19,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 30-Mar-22,0.41,ICU,Fully Vaccinated (With Booster)
 30-Mar-22,0.23,Deceased (based on date of death),Non-Fully Vaccinated
 30-Mar-22,0.96,ICU,Non-Fully Vaccinated
@@ -128,8 +128,8 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 8-Apr-22,0.77,ICU,Non-Fully Vaccinated
 9-Apr-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 9-Apr-22,0.27,ICU,Fully Vaccinated (With Booster)
-9-Apr-22,0.12,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 9-Apr-22,0.33,ICU,Fully Vaccinated (Without Booster)
+9-Apr-22,0.12,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 9-Apr-22,0.18,Deceased (based on date of death),Non-Fully Vaccinated
 9-Apr-22,0.77,ICU,Non-Fully Vaccinated
 10-Apr-22,0.09,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -194,14 +194,14 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 19-Apr-22,0.18,Deceased (based on date of death),Non-Fully Vaccinated
 19-Apr-22,0.21,ICU,Non-Fully Vaccinated
 19-Apr-22,0.21,ICU,Fully Vaccinated (Without Booster)
-20-Apr-22,0.18,Deceased (based on date of death),Non-Fully Vaccinated
-20-Apr-22,0.14,ICU,Fully Vaccinated (With Booster)
+20-Apr-22,0.21,ICU,Non-Fully Vaccinated
+20-Apr-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
 20-Apr-22,0.03,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 20-Apr-22,0.06,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 20-Apr-22,0.18,ICU,Fully Vaccinated (Without Booster)
-20-Apr-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
+20-Apr-22,0.14,ICU,Fully Vaccinated (With Booster)
 20-Apr-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
-20-Apr-22,0.21,ICU,Non-Fully Vaccinated
+20-Apr-22,0.18,Deceased (based on date of death),Non-Fully Vaccinated
 21-Apr-22,0.03,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 21-Apr-22,0.06,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 21-Apr-22,0.17,ICU,Fully Vaccinated (Without Booster)
@@ -210,27 +210,27 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 21-Apr-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 21-Apr-22,0.15,Deceased (based on date of death),Non-Fully Vaccinated
 21-Apr-22,0.24,ICU,Non-Fully Vaccinated
-22-Apr-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
+22-Apr-22,0.12,ICU,Fully Vaccinated (With Booster)
 22-Apr-22,0.03,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 22-Apr-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 22-Apr-22,0.17,ICU,Fully Vaccinated (Without Booster)
-22-Apr-22,0.12,ICU,Fully Vaccinated (With Booster)
+22-Apr-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
 22-Apr-22,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
 22-Apr-22,0.15,Deceased (based on date of death),Non-Fully Vaccinated
 22-Apr-22,0.3,ICU,Non-Fully Vaccinated
-23-Apr-22,0.15,ICU,Fully Vaccinated (Without Booster)
 23-Apr-22,0.03,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+23-Apr-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 23-Apr-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
 23-Apr-22,0.12,ICU,Fully Vaccinated (With Booster)
-23-Apr-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+23-Apr-22,0.15,ICU,Fully Vaccinated (Without Booster)
 23-Apr-22,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
 23-Apr-22,0.12,Deceased (based on date of death),Non-Fully Vaccinated
 23-Apr-22,0.36,ICU,Non-Fully Vaccinated
-24-Apr-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+24-Apr-22,0.12,ICU,Fully Vaccinated (With Booster)
 24-Apr-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 24-Apr-22,0.06,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 24-Apr-22,0.17,ICU,Fully Vaccinated (Without Booster)
-24-Apr-22,0.12,ICU,Fully Vaccinated (With Booster)
+24-Apr-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 24-Apr-22,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
 24-Apr-22,0.09,Deceased (based on date of death),Non-Fully Vaccinated
 24-Apr-22,0.45,ICU,Non-Fully Vaccinated
@@ -248,10 +248,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 26-Apr-22,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
 26-Apr-22,0.09,ICU,Fully Vaccinated (With Booster)
 26-Apr-22,0.6,ICU,Non-Fully Vaccinated
-27-Apr-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+27-Apr-22,0.08,ICU,Fully Vaccinated (With Booster)
 27-Apr-22,0.12,Deceased (based on date of death),Non-Fully Vaccinated
 27-Apr-22,0.66,ICU,Non-Fully Vaccinated
-27-Apr-22,0.08,ICU,Fully Vaccinated (With Booster)
+27-Apr-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 27-Apr-22,0.07,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 27-Apr-22,0.14,ICU,Fully Vaccinated (Without Booster)
 28-Apr-22,0.07,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -373,19 +373,19 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 15-May-22,0.1,ICU,Fully Vaccinated (With Booster)
 15-May-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
 15-May-22,0.31,ICU,Non-Fully Vaccinated
-16-May-22,0,Deceased (based on date of death),Fully Vaccinated (With Booster)
-16-May-22,0.03,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+16-May-22,0.1,ICU,Fully Vaccinated (With Booster)
+16-May-22,0.17,ICU,Fully Vaccinated (Without Booster)
 16-May-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
 16-May-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
-16-May-22,0.17,ICU,Fully Vaccinated (Without Booster)
-16-May-22,0.1,ICU,Fully Vaccinated (With Booster)
+16-May-22,0.03,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+16-May-22,0,Deceased (based on date of death),Fully Vaccinated (With Booster)
 16-May-22,0.34,ICU,Non-Fully Vaccinated
-17-May-22,0.09,Deceased (based on date of death),Non-Fully Vaccinated
+17-May-22,0.37,ICU,Non-Fully Vaccinated
 17-May-22,0.03,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 17-May-22,0.18,ICU,Fully Vaccinated (Without Booster)
 17-May-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
 17-May-22,0.1,ICU,Fully Vaccinated (With Booster)
-17-May-22,0.37,ICU,Non-Fully Vaccinated
+17-May-22,0.09,Deceased (based on date of death),Non-Fully Vaccinated
 18-May-22,0.05,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 18-May-22,0.18,ICU,Fully Vaccinated (Without Booster)
 18-May-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
@@ -428,16 +428,16 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 24-May-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
 24-May-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 24-May-22,0.31,ICU,Non-Fully Vaccinated
-25-May-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
+25-May-22,0.31,ICU,Non-Fully Vaccinated
 25-May-22,0.05,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 25-May-22,0.15,ICU,Fully Vaccinated (Without Booster)
 25-May-22,0.08,ICU,Fully Vaccinated (With Booster)
 25-May-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
-25-May-22,0.31,ICU,Non-Fully Vaccinated
-26-May-22,0.05,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+25-May-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
+26-May-22,0.15,ICU,Fully Vaccinated (Without Booster)
 26-May-22,0.08,ICU,Fully Vaccinated (With Booster)
 26-May-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
-26-May-22,0.15,ICU,Fully Vaccinated (Without Booster)
+26-May-22,0.05,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 26-May-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
 26-May-22,0.34,ICU,Non-Fully Vaccinated
 27-May-22,0.05,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -494,18 +494,18 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 4-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
 4-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
 4-Jun-22,0.7,ICU,Non-Fully Vaccinated
-5-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
+5-Jun-22,0.7,ICU,Non-Fully Vaccinated
 5-Jun-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 5-Jun-22,0.07,ICU,Fully Vaccinated (Without Booster)
 5-Jun-22,0.13,ICU,Fully Vaccinated (With Booster)
 5-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
-5-Jun-22,0.7,ICU,Non-Fully Vaccinated
+5-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
 6-Jun-22,0.13,ICU,Fully Vaccinated (With Booster)
 6-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
 6-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
 6-Jun-22,0.7,ICU,Non-Fully Vaccinated
-6-Jun-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 6-Jun-22,0.03,ICU,Fully Vaccinated (Without Booster)
+6-Jun-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 7-Jun-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 7-Jun-22,0.02,ICU,Fully Vaccinated (Without Booster)
 7-Jun-22,0.13,ICU,Fully Vaccinated (With Booster)
@@ -540,10 +540,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 11-Jun-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 11-Jun-22,0.37,ICU,Non-Fully Vaccinated
 11-Jun-22,0.03,Deceased (based on date of death),Non-Fully Vaccinated
-12-Jun-22,0,Deceased (based on date of death),Fully Vaccinated (With Booster)
+12-Jun-22,0.09,ICU,Fully Vaccinated (With Booster)
 12-Jun-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 12-Jun-22,0.02,ICU,Fully Vaccinated (Without Booster)
-12-Jun-22,0.09,ICU,Fully Vaccinated (With Booster)
+12-Jun-22,0,Deceased (based on date of death),Fully Vaccinated (With Booster)
 12-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
 12-Jun-22,0.28,ICU,Non-Fully Vaccinated
 12-Jun-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
@@ -554,12 +554,12 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 13-Jun-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
 13-Jun-22,0.2,ICU,Non-Fully Vaccinated
 13-Jun-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
-14-Jun-22,0.14,Deceased (based on date of death),Non-Fully Vaccinated
+14-Jun-22,0.11,ICU,Non-Fully Vaccinated
 14-Jun-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 14-Jun-22,0.02,ICU,Fully Vaccinated (Without Booster)
 14-Jun-22,0.07,ICU,Fully Vaccinated (With Booster)
 14-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
-14-Jun-22,0.11,ICU,Non-Fully Vaccinated
+14-Jun-22,0.14,Deceased (based on date of death),Non-Fully Vaccinated
 14-Jun-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
 15-Jun-22,0.06,ICU,Fully Vaccinated (With Booster)
 15-Jun-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -567,13 +567,13 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 15-Jun-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
 15-Jun-22,0.03,ICU,Non-Fully Vaccinated
 15-Jun-22,0,ICU,Fully Vaccinated (Without Booster)
-16-Jun-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
+16-Jun-22,0,ICU,Non-Fully Vaccinated
 16-Jun-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 16-Jun-22,0,ICU,Fully Vaccinated (Without Booster)
 16-Jun-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 16-Jun-22,0,Deceased (based on date of death),Fully Vaccinated (With Booster)
 16-Jun-22,0.05,ICU,Fully Vaccinated (With Booster)
-16-Jun-22,0,ICU,Non-Fully Vaccinated
+16-Jun-22,0.11,Deceased (based on date of death),Non-Fully Vaccinated
 17-Jun-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 17-Jun-22,0,ICU,Fully Vaccinated (Without Booster)
 17-Jun-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -619,12 +619,12 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 23-Jun-22,0.13,ICU,Fully Vaccinated (With Booster)
 23-Jun-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 23-Jun-22,0.45,ICU,Non-Fully Vaccinated
-24-Jun-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
+24-Jun-22,0.57,ICU,Non-Fully Vaccinated
 24-Jun-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 24-Jun-22,0,ICU,Fully Vaccinated (Without Booster)
 24-Jun-22,0.14,ICU,Fully Vaccinated (With Booster)
 24-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
-24-Jun-22,0.57,ICU,Non-Fully Vaccinated
+24-Jun-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 25-Jun-22,0.02,ICU,Fully Vaccinated (Without Booster)
 25-Jun-22,0.14,ICU,Fully Vaccinated (With Booster)
 25-Jun-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
@@ -694,10 +694,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 5-Jul-22,0.17,Deceased (based on date of death),Non-Fully Vaccinated
 5-Jul-22,0.68,ICU,Non-Fully Vaccinated
 5-Jul-22,0.2,Deceased (based on date of death),Non-Fully Vaccinated
-6-Jul-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+6-Jul-22,0.25,ICU,Fully Vaccinated (Without Booster)
 6-Jul-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
 6-Jul-22,0.16,ICU,Fully Vaccinated (With Booster)
-6-Jul-22,0.25,ICU,Fully Vaccinated (Without Booster)
+6-Jul-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 6-Jul-22,0.17,Deceased (based on date of death),Non-Fully Vaccinated
 6-Jul-22,0.74,ICU,Non-Fully Vaccinated
 7-Jul-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -718,10 +718,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 9-Jul-22,0.2,ICU,Fully Vaccinated (With Booster)
 9-Jul-22,0.2,Deceased (based on date of death),Non-Fully Vaccinated
 9-Jul-22,0.77,ICU,Non-Fully Vaccinated
-10-Jul-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
+10-Jul-22,0.23,ICU,Fully Vaccinated (With Booster)
 10-Jul-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 10-Jul-22,0.18,ICU,Fully Vaccinated (Without Booster)
-10-Jul-22,0.23,ICU,Fully Vaccinated (With Booster)
+10-Jul-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
 10-Jul-22,0.23,Deceased (based on date of death),Non-Fully Vaccinated
 10-Jul-22,0.83,ICU,Non-Fully Vaccinated
 11-Jul-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -748,16 +748,16 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 14-Jul-22,0.28,ICU,Fully Vaccinated (With Booster)
 14-Jul-22,0.23,Deceased (based on date of death),Non-Fully Vaccinated
 14-Jul-22,0.63,ICU,Non-Fully Vaccinated
-15-Jul-22,0.07,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 15-Jul-22,0.17,ICU,Fully Vaccinated (Without Booster)
+15-Jul-22,0.07,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 15-Jul-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 15-Jul-22,0.31,ICU,Fully Vaccinated (With Booster)
 15-Jul-22,0.2,Deceased (based on date of death),Non-Fully Vaccinated
 15-Jul-22,0.57,ICU,Non-Fully Vaccinated
-16-Jul-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+16-Jul-22,0.31,ICU,Fully Vaccinated (With Booster)
 16-Jul-22,0.23,Deceased (based on date of death),Non-Fully Vaccinated
 16-Jul-22,0.07,Deceased (based on date of death),Fully Vaccinated (Without Booster)
-16-Jul-22,0.31,ICU,Fully Vaccinated (With Booster)
+16-Jul-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 16-Jul-22,0.6,ICU,Non-Fully Vaccinated
 16-Jul-22,0.15,ICU,Fully Vaccinated (Without Booster)
 17-Jul-22,0.09,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -778,10 +778,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 19-Jul-22,0.3,ICU,Fully Vaccinated (With Booster)
 19-Jul-22,0.2,Deceased (based on date of death),Non-Fully Vaccinated
 19-Jul-22,0.54,ICU,Non-Fully Vaccinated
-20-Jul-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+20-Jul-22,0.3,ICU,Fully Vaccinated (With Booster)
 20-Jul-22,0.13,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 20-Jul-22,0.13,ICU,Fully Vaccinated (Without Booster)
-20-Jul-22,0.3,ICU,Fully Vaccinated (With Booster)
+20-Jul-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 20-Jul-22,0.2,Deceased (based on date of death),Non-Fully Vaccinated
 20-Jul-22,0.63,ICU,Non-Fully Vaccinated
 21-Jul-22,0.09,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -808,19 +808,19 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 24-Jul-22,0.25,ICU,Fully Vaccinated (With Booster)
 24-Jul-22,0.29,Deceased (based on date of death),Non-Fully Vaccinated
 24-Jul-22,0.86,ICU,Non-Fully Vaccinated
-25-Jul-22,0.37,Deceased (based on date of death),Non-Fully Vaccinated
+25-Jul-22,1,ICU,Non-Fully Vaccinated
 25-Jul-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 25-Jul-22,0.08,ICU,Fully Vaccinated (Without Booster)
 25-Jul-22,0.05,Deceased (based on date of death),Fully Vaccinated (With Booster)
 25-Jul-22,0.24,ICU,Fully Vaccinated (With Booster)
-25-Jul-22,1,ICU,Non-Fully Vaccinated
+25-Jul-22,0.37,Deceased (based on date of death),Non-Fully Vaccinated
 26-Jul-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
-26-Jul-22,0.1,ICU,Fully Vaccinated (Without Booster)
+26-Jul-22,0.17,ICU,Fully Vaccinated (Without Booster)
 26-Jul-22,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
 26-Jul-22,0.24,ICU,Fully Vaccinated (With Booster)
 26-Jul-22,0.23,ICU,Fully Vaccinated (With Booster)
 26-Jul-22,0.37,Deceased (based on date of death),Non-Fully Vaccinated
-26-Jul-22,0.17,ICU,Fully Vaccinated (Without Booster)
+26-Jul-22,0.1,ICU,Fully Vaccinated (Without Booster)
 26-Jul-22,1.12,ICU,Non-Fully Vaccinated
 27-Jul-22,0.32,Deceased (based on date of death),Non-Fully Vaccinated
 27-Jul-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -842,8 +842,8 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 29-Jul-22,0.24,ICU,Fully Vaccinated (With Booster)
 29-Jul-22,0.23,Deceased (based on date of death),Non-Fully Vaccinated
 29-Jul-22,1.35,ICU,Non-Fully Vaccinated
-30-Jul-22,0.06,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 30-Jul-22,0.17,ICU,Fully Vaccinated (Without Booster)
+30-Jul-22,0.06,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 30-Jul-22,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
 30-Jul-22,0.24,ICU,Fully Vaccinated (With Booster)
 30-Jul-22,0.2,Deceased (based on date of death),Non-Fully Vaccinated
@@ -890,10 +890,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 6-Aug-22,0.24,ICU,Fully Vaccinated (With Booster)
 6-Aug-22,0.23,Deceased (based on date of death),Non-Fully Vaccinated
 6-Aug-22,0.97,ICU,Non-Fully Vaccinated
-7-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
+7-Aug-22,0.28,ICU,Fully Vaccinated (With Booster)
 7-Aug-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 7-Aug-22,0.1,ICU,Fully Vaccinated (Without Booster)
-7-Aug-22,0.28,ICU,Fully Vaccinated (With Booster)
+7-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
 7-Aug-22,0.26,Deceased (based on date of death),Non-Fully Vaccinated
 7-Aug-22,0.88,ICU,Non-Fully Vaccinated
 8-Aug-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -944,10 +944,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 15-Aug-22,0.41,ICU,Fully Vaccinated (With Booster)
 15-Aug-22,0.26,Deceased (based on date of death),Non-Fully Vaccinated
 15-Aug-22,0.68,ICU,Non-Fully Vaccinated
-16-Aug-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+16-Aug-22,0.32,ICU,Fully Vaccinated (Without Booster)
 16-Aug-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 16-Aug-22,0.37,ICU,Fully Vaccinated (With Booster)
-16-Aug-22,0.32,ICU,Fully Vaccinated (Without Booster)
+16-Aug-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 16-Aug-22,0.25,Deceased (based on date of death),Non-Fully Vaccinated
 16-Aug-22,0.65,ICU,Non-Fully Vaccinated
 17-Aug-22,0.06,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -968,10 +968,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 19-Aug-22,0.25,ICU,Fully Vaccinated (With Booster)
 19-Aug-22,0.25,Deceased (based on date of death),Non-Fully Vaccinated
 19-Aug-22,0.62,ICU,Non-Fully Vaccinated
-20-Aug-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+20-Aug-22,0.22,ICU,Fully Vaccinated (With Booster)
 20-Aug-22,0.06,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 20-Aug-22,0.13,ICU,Fully Vaccinated (Without Booster)
-20-Aug-22,0.22,ICU,Fully Vaccinated (With Booster)
+20-Aug-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 20-Aug-22,0.2,Deceased (based on date of death),Non-Fully Vaccinated
 20-Aug-22,0.59,ICU,Non-Fully Vaccinated
 21-Aug-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -999,21 +999,21 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 24-Aug-22,0.17,Deceased (based on date of death),Non-Fully Vaccinated
 24-Aug-22,0.42,ICU,Non-Fully Vaccinated
 25-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
+25-Aug-22,0.14,ICU,Fully Vaccinated (With Booster)
 25-Aug-22,0.42,ICU,Non-Fully Vaccinated
 25-Aug-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
-25-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
 25-Aug-22,0.14,Deceased (based on date of death),Non-Fully Vaccinated
-25-Aug-22,0.14,ICU,Fully Vaccinated (With Booster)
-26-Aug-22,0.14,Deceased (based on date of death),Non-Fully Vaccinated
+25-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
+26-Aug-22,0.42,ICU,Non-Fully Vaccinated
+26-Aug-22,0.13,ICU,Fully Vaccinated (With Booster)
 26-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
 26-Aug-22,0.04,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 26-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
-26-Aug-22,0.13,ICU,Fully Vaccinated (With Booster)
-26-Aug-22,0.42,ICU,Non-Fully Vaccinated
-27-Aug-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
+26-Aug-22,0.14,Deceased (based on date of death),Non-Fully Vaccinated
 27-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
 27-Aug-22,0.02,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 27-Aug-22,0.12,ICU,Fully Vaccinated (With Booster)
+27-Aug-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
 27-Aug-22,0.17,Deceased (based on date of death),Non-Fully Vaccinated
 27-Aug-22,0.42,ICU,Non-Fully Vaccinated
 28-Aug-22,0,ICU,Fully Vaccinated (Without Booster)
@@ -1040,10 +1040,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 31-Aug-22,0.11,ICU,Fully Vaccinated (With Booster)
 31-Aug-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 31-Aug-22,0.56,ICU,Non-Fully Vaccinated
-22-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 22-Sep-22,0.25,ICU,Fully Vaccinated (Without Booster)
 22-Sep-22,0.12,ICU,Fully Vaccinated (With Booster)
 22-Sep-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
+22-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 22-Sep-22,0.02,Deceased (based on date of death),Non-Fully Vaccinated
 22-Sep-22,0.34,ICU,Non-Fully Vaccinated
 23-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -1052,22 +1052,22 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 23-Sep-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
 23-Sep-22,0.02,Deceased (based on date of death),Non-Fully Vaccinated
 23-Sep-22,0.36,ICU,Non-Fully Vaccinated
+24-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (With Booster)
 24-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 24-Sep-22,0.25,ICU,Fully Vaccinated (Without Booster)
 24-Sep-22,0.11,ICU,Fully Vaccinated (With Booster)
-24-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (With Booster)
 24-Sep-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 24-Sep-22,0.36,ICU,Non-Fully Vaccinated
-25-Sep-22,0.11,ICU,Fully Vaccinated (With Booster)
 25-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 25-Sep-22,0.25,ICU,Fully Vaccinated (Without Booster)
+25-Sep-22,0.11,ICU,Fully Vaccinated (With Booster)
 25-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (With Booster)
 25-Sep-22,0.04,Deceased (based on date of death),Non-Fully Vaccinated
 25-Sep-22,0.4,ICU,Non-Fully Vaccinated
+26-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 26-Sep-22,0.22,ICU,Fully Vaccinated (Without Booster)
 26-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (With Booster)
 26-Sep-22,0.11,ICU,Fully Vaccinated (With Booster)
-26-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 26-Sep-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 26-Sep-22,0.4,ICU,Non-Fully Vaccinated
 27-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -1076,10 +1076,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 27-Sep-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
 27-Sep-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 27-Sep-22,0.38,ICU,Non-Fully Vaccinated
+28-Sep-22,0.1,ICU,Fully Vaccinated (With Booster)
 28-Sep-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
 28-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 28-Sep-22,0.14,ICU,Fully Vaccinated (Without Booster)
-28-Sep-22,0.1,ICU,Fully Vaccinated (With Booster)
 28-Sep-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 28-Sep-22,0.36,ICU,Non-Fully Vaccinated
 29-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -1088,10 +1088,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 29-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (With Booster)
 29-Sep-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 29-Sep-22,0.34,ICU,Non-Fully Vaccinated
+30-Sep-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
 30-Sep-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 30-Sep-22,0.17,ICU,Fully Vaccinated (Without Booster)
 30-Sep-22,0.12,ICU,Fully Vaccinated (With Booster)
-30-Sep-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
 30-Sep-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
 30-Sep-22,0.29,ICU,Non-Fully Vaccinated
 1-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -1106,16 +1106,16 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 2-Oct-22,0.01,Deceased (based on date of death),Fully Vaccinated (With Booster)
 2-Oct-22,0.04,Deceased (based on date of death),Non-Fully Vaccinated
 2-Oct-22,0.21,ICU,Non-Fully Vaccinated
+3-Oct-22,0.13,ICU,Fully Vaccinated (With Booster)
 3-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 3-Oct-22,0.17,ICU,Fully Vaccinated (Without Booster)
 3-Oct-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
-3-Oct-22,0.13,ICU,Fully Vaccinated (With Booster)
 3-Oct-22,0.02,Deceased (based on date of death),Non-Fully Vaccinated
 3-Oct-22,0.17,ICU,Non-Fully Vaccinated
-4-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 4-Oct-22,0.2,ICU,Fully Vaccinated (Without Booster)
 4-Oct-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
 4-Oct-22,0.15,ICU,Fully Vaccinated (With Booster)
+4-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 4-Oct-22,0.02,Deceased (based on date of death),Non-Fully Vaccinated
 4-Oct-22,0.15,ICU,Non-Fully Vaccinated
 5-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -1124,16 +1124,16 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 5-Oct-22,0.16,ICU,Fully Vaccinated (With Booster)
 5-Oct-22,0.02,Deceased (based on date of death),Non-Fully Vaccinated
 5-Oct-22,0.15,ICU,Non-Fully Vaccinated
+6-Oct-22,0.17,ICU,Fully Vaccinated (With Booster)
 6-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 6-Oct-22,0.23,ICU,Fully Vaccinated (Without Booster)
 6-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
-6-Oct-22,0.17,ICU,Fully Vaccinated (With Booster)
 6-Oct-22,0.17,ICU,Non-Fully Vaccinated
 6-Oct-22,0.04,Deceased (based on date of death),Non-Fully Vaccinated
+7-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 7-Oct-22,0.17,ICU,Fully Vaccinated (Without Booster)
 7-Oct-22,0.02,Deceased (based on date of death),Fully Vaccinated (With Booster)
 7-Oct-22,0.18,ICU,Fully Vaccinated (With Booster)
-7-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 7-Oct-22,0.04,Deceased (based on date of death),Non-Fully Vaccinated
 7-Oct-22,0.21,ICU,Non-Fully Vaccinated
 8-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -1142,16 +1142,16 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 8-Oct-22,0.18,ICU,Fully Vaccinated (With Booster)
 8-Oct-22,0.04,Deceased (based on date of death),Non-Fully Vaccinated
 8-Oct-22,0.23,ICU,Non-Fully Vaccinated
-9-Oct-22,0.19,ICU,Fully Vaccinated (With Booster)
 9-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 9-Oct-22,0.12,ICU,Fully Vaccinated (Without Booster)
+9-Oct-22,0.19,ICU,Fully Vaccinated (With Booster)
 9-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 9-Oct-22,0.04,Deceased (based on date of death),Non-Fully Vaccinated
 9-Oct-22,0.25,ICU,Non-Fully Vaccinated
+10-Oct-22,0.19,ICU,Fully Vaccinated (With Booster)
 10-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 10-Oct-22,0.12,ICU,Fully Vaccinated (Without Booster)
 10-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
-10-Oct-22,0.19,ICU,Fully Vaccinated (With Booster)
 10-Oct-22,0.04,Deceased (based on date of death),Non-Fully Vaccinated
 10-Oct-22,0.25,ICU,Non-Fully Vaccinated
 11-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
@@ -1160,10 +1160,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 11-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 11-Oct-22,0.04,Deceased (based on date of death),Non-Fully Vaccinated
 11-Oct-22,0.25,ICU,Non-Fully Vaccinated
+12-Oct-22,0.19,ICU,Fully Vaccinated (With Booster)
 12-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 12-Oct-22,0.09,ICU,Fully Vaccinated (Without Booster)
 12-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
-12-Oct-22,0.19,ICU,Fully Vaccinated (With Booster)
 12-Oct-22,0.04,Deceased (based on date of death),Non-Fully Vaccinated
 12-Oct-22,0.27,ICU,Non-Fully Vaccinated
 13-Oct-22,0.03,Deceased (based on date of death),Up-to-Date Vaccination
@@ -1173,15 +1173,15 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 13-Oct-22,0.02,Deceased (based on date of death),Non-Fully Vaccinated
 13-Oct-22,0.27,ICU,Non-Fully Vaccinated
 13-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
-13-Oct-22,0.01,Deceased (based on date of death),No Minimum Protection
 13-Oct-22,0.03,Deceased (based on date of death),Minimum Protection
 13-Oct-22,0.17,ICU,Up-to-Date Vaccination
 13-Oct-22,0.18,ICU,No Minimum Protection
 13-Oct-22,0.2,ICU,Minimum Protection
+13-Oct-22,0.01,Deceased (based on date of death),No Minimum Protection
+14-Oct-22,0.18,ICU,Fully Vaccinated (With Booster)
 14-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 14-Oct-22,0.09,ICU,Fully Vaccinated (Without Booster)
 14-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
-14-Oct-22,0.18,ICU,Fully Vaccinated (With Booster)
 14-Oct-22,0.02,Deceased (based on date of death),Non-Fully Vaccinated
 14-Oct-22,0.25,ICU,Non-Fully Vaccinated
 14-Oct-22,0.03,Deceased (based on date of death),Up-to-Date Vaccination
@@ -1190,34 +1190,34 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 14-Oct-22,0.16,ICU,Up-to-Date Vaccination
 14-Oct-22,0.18,ICU,No Minimum Protection
 14-Oct-22,0.18,ICU,Minimum Protection
-15-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+15-Oct-22,0.03,Deceased (based on date of death),Up-to-Date Vaccination
 15-Oct-22,0.12,ICU,Fully Vaccinated (Without Booster)
 15-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
 15-Oct-22,0.19,ICU,Fully Vaccinated (With Booster)
 15-Oct-22,0.04,Deceased (based on date of death),Non-Fully Vaccinated
 15-Oct-22,0.27,ICU,Non-Fully Vaccinated
-15-Oct-22,0.03,Deceased (based on date of death),Up-to-Date Vaccination
+15-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 15-Oct-22,0.04,Deceased (based on date of death),No Minimum Protection
 15-Oct-22,0.03,Deceased (based on date of death),Minimum Protection
 15-Oct-22,0.17,ICU,Up-to-Date Vaccination
 15-Oct-22,0.21,ICU,No Minimum Protection
 15-Oct-22,0.19,ICU,Minimum Protection
-16-Oct-22,0.04,Deceased (based on date of death),Up-to-Date Vaccination
+16-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 16-Oct-22,0.15,ICU,Fully Vaccinated (Without Booster)
 16-Oct-22,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
 16-Oct-22,0.2,ICU,Fully Vaccinated (With Booster)
 16-Oct-22,0.04,Deceased (based on date of death),Non-Fully Vaccinated
 16-Oct-22,0.25,ICU,Non-Fully Vaccinated
-16-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+16-Oct-22,0.04,Deceased (based on date of death),Up-to-Date Vaccination
 16-Oct-22,0.04,Deceased (based on date of death),No Minimum Protection
 16-Oct-22,0.04,Deceased (based on date of death),Minimum Protection
 16-Oct-22,0.18,ICU,Up-to-Date Vaccination
 16-Oct-22,0.21,ICU,No Minimum Protection
 16-Oct-22,0.2,ICU,Minimum Protection
+17-Oct-22,0.22,ICU,Fully Vaccinated (With Booster)
 17-Oct-22,0,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 17-Oct-22,0.18,ICU,Fully Vaccinated (Without Booster)
 17-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
-17-Oct-22,0.22,ICU,Fully Vaccinated (With Booster)
 17-Oct-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 17-Oct-22,0.25,ICU,Non-Fully Vaccinated
 17-Oct-22,0.04,Deceased (based on date of death),Up-to-Date Vaccination
@@ -1226,25 +1226,25 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 17-Oct-22,0.2,ICU,Up-to-Date Vaccination
 17-Oct-22,0.22,ICU,No Minimum Protection
 17-Oct-22,0.22,ICU,Minimum Protection
-18-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (Without Booster)
-18-Oct-22,0.21,ICU,Fully Vaccinated (Without Booster)
+18-Oct-22,0.04,Deceased (based on date of death),Up-to-Date Vaccination
 18-Oct-22,0.22,ICU,Fully Vaccinated (With Booster)
 18-Oct-22,0.04,Deceased (based on date of death),Fully Vaccinated (With Booster)
+18-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (Without Booster)
 18-Oct-22,0.06,Deceased (based on date of death),Non-Fully Vaccinated
 18-Oct-22,0.25,ICU,Non-Fully Vaccinated
-18-Oct-22,0.04,Deceased (based on date of death),Up-to-Date Vaccination
+18-Oct-22,0.21,ICU,Fully Vaccinated (Without Booster)
 18-Oct-22,0.07,Deceased (based on date of death),No Minimum Protection
 18-Oct-22,0.04,Deceased (based on date of death),Minimum Protection
 18-Oct-22,0.2,ICU,Up-to-Date Vaccination
 18-Oct-22,0.23,ICU,No Minimum Protection
 18-Oct-22,0.22,ICU,Minimum Protection
-19-Oct-22,0.03,Deceased (based on date of death),Up-to-Date Vaccination
-19-Oct-22,0.27,ICU,Fully Vaccinated (Without Booster)
-19-Oct-22,0.23,ICU,Fully Vaccinated (With Booster)
 19-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (With Booster)
+19-Oct-22,0.27,ICU,Fully Vaccinated (Without Booster)
+19-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+19-Oct-22,0.23,ICU,Fully Vaccinated (With Booster)
 19-Oct-22,0.08,Deceased (based on date of death),Non-Fully Vaccinated
 19-Oct-22,0.23,ICU,Non-Fully Vaccinated
-19-Oct-22,0.03,Deceased (based on date of death),Fully Vaccinated (Without Booster)
+19-Oct-22,0.03,Deceased (based on date of death),Up-to-Date Vaccination
 19-Oct-22,0.1,Deceased (based on date of death),No Minimum Protection
 19-Oct-22,0.03,Deceased (based on date of death),Minimum Protection
 19-Oct-22,0.21,ICU,Up-to-Date Vaccination
@@ -1304,10 +1304,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 28-Oct-22,0.24,ICU,Up-to-Date Vaccination
 28-Oct-22,0.14,ICU,No Minimum Protection
 28-Oct-22,0.26,ICU,Minimum Protection
+29-Oct-22,0.24,ICU,Up-to-Date Vaccination
 29-Oct-22,0.03,Deceased (based on date of death),Up-to-Date Vaccination
 29-Oct-22,0.09,Deceased (based on date of death),No Minimum Protection
 29-Oct-22,0.03,Deceased (based on date of death),Minimum Protection
-29-Oct-22,0.24,ICU,Up-to-Date Vaccination
 29-Oct-22,0.11,ICU,No Minimum Protection
 29-Oct-22,0.25,ICU,Minimum Protection
 30-Oct-22,0.04,Deceased (based on date of death),Up-to-Date Vaccination
@@ -1322,16 +1322,16 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 31-Oct-22,0.27,ICU,Up-to-Date Vaccination
 31-Oct-22,0.12,ICU,No Minimum Protection
 31-Oct-22,0.28,ICU,Minimum Protection
+1-Nov-22,0.04,Deceased (based on date of death),Up-to-Date Vaccination
 1-Nov-22,0.05,Deceased (based on date of death),No Minimum Protection
 1-Nov-22,0.04,Deceased (based on date of death),Minimum Protection
 1-Nov-22,0.29,ICU,Up-to-Date Vaccination
-1-Nov-22,0.04,Deceased (based on date of death),Up-to-Date Vaccination
 1-Nov-22,0.15,ICU,No Minimum Protection
 1-Nov-22,0.31,ICU,Minimum Protection
-2-Nov-22,0.04,Deceased (based on date of death),No Minimum Protection
 2-Nov-22,0.04,Deceased (based on date of death),Minimum Protection
 2-Nov-22,0.29,ICU,Up-to-Date Vaccination
 2-Nov-22,0.03,Deceased (based on date of death),Up-to-Date Vaccination
+2-Nov-22,0.04,Deceased (based on date of death),No Minimum Protection
 2-Nov-22,0.17,ICU,No Minimum Protection
 2-Nov-22,0.3,ICU,Minimum Protection
 3-Nov-22,0.28,ICU,Up-to-Date Vaccination
@@ -1340,10 +1340,10 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 3-Nov-22,0.03,Deceased (based on date of death),Minimum Protection
 3-Nov-22,0.19,ICU,No Minimum Protection
 3-Nov-22,0.3,ICU,Minimum Protection
+4-Nov-22,0.27,ICU,Up-to-Date Vaccination
 4-Nov-22,0.03,Deceased (based on date of death),Up-to-Date Vaccination
 4-Nov-22,0.05,Deceased (based on date of death),No Minimum Protection
 4-Nov-22,0.03,Deceased (based on date of death),Minimum Protection
-4-Nov-22,0.27,ICU,Up-to-Date Vaccination
 4-Nov-22,0.21,ICU,No Minimum Protection
 4-Nov-22,0.29,ICU,Minimum Protection
 5-Nov-22,0.02,Deceased (based on date of death),Minimum Protection
@@ -1353,152 +1353,224 @@ as_of_date,case per 100k population,clinicalstatus,vaccination_status
 5-Nov-22,0.24,ICU,No Minimum Protection
 5-Nov-22,0.3,ICU,Minimum Protection
 6-Nov-22,0.05,Deceased (based on date of death),No Minimum Protection
-6-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 6-Nov-22,0.27,ICU,Up-to-Date Vaccination
-6-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
 6-Nov-22,0.25,ICU,No Minimum Protection
 6-Nov-22,0.3,ICU,Minimum Protection
-7-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+6-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+6-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+7-Nov-22,0.3,ICU,Minimum Protection
 7-Nov-22,0.05,Deceased (based on date of death),No Minimum Protection
-7-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 7-Nov-22,0.27,ICU,Up-to-Date Vaccination
 7-Nov-22,0.26,ICU,No Minimum Protection
-7-Nov-22,0.3,ICU,Minimum Protection
-8-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
-8-Nov-22,0.05,Deceased (based on date of death),No Minimum Protection
-8-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
-8-Nov-22,0.25,ICU,Up-to-Date Vaccination
+7-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+7-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 8-Nov-22,0.26,ICU,No Minimum Protection
 8-Nov-22,0.28,ICU,Minimum Protection
+8-Nov-22,0.05,Deceased (based on date of death),No Minimum Protection
+8-Nov-22,0.25,ICU,Up-to-Date Vaccination
+8-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+8-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 9-Nov-22,0,Deceased (based on date of death),Up-to-Date Vaccination
 9-Nov-22,0.04,Deceased (based on date of death),No Minimum Protection
-9-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 9-Nov-22,0.25,ICU,Up-to-Date Vaccination
 9-Nov-22,0.25,ICU,No Minimum Protection
 9-Nov-22,0.28,ICU,Minimum Protection
-10-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+9-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+10-Nov-22,0.25,ICU,No Minimum Protection
 10-Nov-22,0.25,ICU,Up-to-Date Vaccination
 10-Nov-22,0,Deceased (based on date of death),Up-to-Date Vaccination
 10-Nov-22,0.04,Deceased (based on date of death),No Minimum Protection
-10-Nov-22,0.25,ICU,No Minimum Protection
 10-Nov-22,0.27,ICU,Minimum Protection
-11-Nov-22,0.01,Deceased (based on date of death),No Minimum Protection
-11-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+10-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 11-Nov-22,0.24,ICU,Up-to-Date Vaccination
-11-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
 11-Nov-22,0.25,ICU,No Minimum Protection
 11-Nov-22,0.26,ICU,Minimum Protection
-12-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+11-Nov-22,0.01,Deceased (based on date of death),No Minimum Protection
+11-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+11-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
 12-Nov-22,0.03,Deceased (based on date of death),No Minimum Protection
-12-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 12-Nov-22,0.23,ICU,Up-to-Date Vaccination
 12-Nov-22,0.23,ICU,No Minimum Protection
 12-Nov-22,0.25,ICU,Minimum Protection
-13-Nov-22,0.24,ICU,Up-to-Date Vaccination
-13-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
-13-Nov-22,0.03,Deceased (based on date of death),No Minimum Protection
-13-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
-13-Nov-22,0.23,ICU,No Minimum Protection
+12-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+12-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 13-Nov-22,0.26,ICU,Minimum Protection
-14-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
-14-Nov-22,0.04,Deceased (based on date of death),No Minimum Protection
-14-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+13-Nov-22,0.24,ICU,Up-to-Date Vaccination
+13-Nov-22,0.03,Deceased (based on date of death),No Minimum Protection
+13-Nov-22,0.23,ICU,No Minimum Protection
+13-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+13-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 14-Nov-22,0.24,ICU,Up-to-Date Vaccination
 14-Nov-22,0.2,ICU,No Minimum Protection
 14-Nov-22,0.26,ICU,Minimum Protection
-15-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+14-Nov-22,0.04,Deceased (based on date of death),No Minimum Protection
+14-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+14-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 15-Nov-22,0.03,Deceased (based on date of death),No Minimum Protection
-15-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 15-Nov-22,0.25,ICU,Up-to-Date Vaccination
 15-Nov-22,0.18,ICU,No Minimum Protection
 15-Nov-22,0.27,ICU,Minimum Protection
-16-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+15-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+15-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+16-Nov-22,0.27,ICU,Minimum Protection
 16-Nov-22,0.04,Deceased (based on date of death),No Minimum Protection
-16-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 16-Nov-22,0.25,ICU,Up-to-Date Vaccination
 16-Nov-22,0.15,ICU,No Minimum Protection
-16-Nov-22,0.27,ICU,Minimum Protection
-17-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+16-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+16-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 17-Nov-22,0.04,Deceased (based on date of death),No Minimum Protection
-17-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 17-Nov-22,0.24,ICU,Up-to-Date Vaccination
 17-Nov-22,0.13,ICU,No Minimum Protection
 17-Nov-22,0.27,ICU,Minimum Protection
-18-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+17-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+17-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 18-Nov-22,0.04,Deceased (based on date of death),No Minimum Protection
-18-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 18-Nov-22,0.24,ICU,Up-to-Date Vaccination
 18-Nov-22,0.09,ICU,No Minimum Protection
 18-Nov-22,0.27,ICU,Minimum Protection
+18-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+18-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+19-Nov-22,0.23,ICU,Up-to-Date Vaccination
 19-Nov-22,0,Deceased (based on date of death),Up-to-Date Vaccination
 19-Nov-22,0.03,Deceased (based on date of death),No Minimum Protection
 19-Nov-22,0,Deceased (based on date of death),Minimum Protection
-19-Nov-22,0.23,ICU,Up-to-Date Vaccination
 19-Nov-22,0.08,ICU,No Minimum Protection
 19-Nov-22,0.25,ICU,Minimum Protection
-20-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+20-Nov-22,0.23,ICU,Minimum Protection
 20-Nov-22,0.03,Deceased (based on date of death),No Minimum Protection
-20-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 20-Nov-22,0.21,ICU,Up-to-Date Vaccination
 20-Nov-22,0.05,ICU,No Minimum Protection
-20-Nov-22,0.23,ICU,Minimum Protection
-21-Nov-22,0.01,Deceased (based on date of death),No Minimum Protection
-21-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+20-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+20-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 21-Nov-22,0.19,ICU,Up-to-Date Vaccination
-21-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
 21-Nov-22,0.04,ICU,No Minimum Protection
 21-Nov-22,0.22,ICU,Minimum Protection
+21-Nov-22,0.01,Deceased (based on date of death),No Minimum Protection
+21-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+21-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
 22-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
-22-Nov-22,0.01,Deceased (based on date of death),No Minimum Protection
-22-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 22-Nov-22,0.17,ICU,Up-to-Date Vaccination
 22-Nov-22,0.03,ICU,No Minimum Protection
 22-Nov-22,0.2,ICU,Minimum Protection
-23-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+22-Nov-22,0.01,Deceased (based on date of death),No Minimum Protection
+22-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 23-Nov-22,0,Deceased (based on date of death),No Minimum Protection
-23-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 23-Nov-22,0.16,ICU,Up-to-Date Vaccination
-23-Nov-22,0.01,ICU,No Minimum Protection
 23-Nov-22,0.18,ICU,Minimum Protection
-24-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+23-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+23-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+23-Nov-22,0.01,ICU,No Minimum Protection
 24-Nov-22,0,Deceased (based on date of death),No Minimum Protection
-24-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 24-Nov-22,0.15,ICU,Up-to-Date Vaccination
 24-Nov-22,0,ICU,No Minimum Protection
 24-Nov-22,0.18,ICU,Minimum Protection
-25-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+24-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+24-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+25-Nov-22,0.19,ICU,Minimum Protection
 25-Nov-22,0,Deceased (based on date of death),No Minimum Protection
-25-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 25-Nov-22,0.16,ICU,Up-to-Date Vaccination
 25-Nov-22,0,ICU,No Minimum Protection
-25-Nov-22,0.19,ICU,Minimum Protection
-26-Nov-22,0.18,ICU,Up-to-Date Vaccination
-26-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+25-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+25-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 26-Nov-22,0,Deceased (based on date of death),No Minimum Protection
-26-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 26-Nov-22,0,ICU,No Minimum Protection
 26-Nov-22,0.21,ICU,Minimum Protection
-27-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+26-Nov-22,0.18,ICU,Up-to-Date Vaccination
+26-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+26-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 27-Nov-22,0,Deceased (based on date of death),No Minimum Protection
-27-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 27-Nov-22,0.2,ICU,Up-to-Date Vaccination
 27-Nov-22,0,ICU,No Minimum Protection
 27-Nov-22,0.23,ICU,Minimum Protection
-28-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+27-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+27-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+28-Nov-22,0.23,ICU,Minimum Protection
 28-Nov-22,0,Deceased (based on date of death),No Minimum Protection
-28-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 28-Nov-22,0.21,ICU,Up-to-Date Vaccination
 28-Nov-22,0,ICU,No Minimum Protection
-28-Nov-22,0.23,ICU,Minimum Protection
-29-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+28-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+28-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 29-Nov-22,0,Deceased (based on date of death),No Minimum Protection
-29-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 29-Nov-22,0.23,ICU,Up-to-Date Vaccination
 29-Nov-22,0,ICU,No Minimum Protection
 29-Nov-22,0.23,ICU,Minimum Protection
-30-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+29-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+29-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 30-Nov-22,0,Deceased (based on date of death),No Minimum Protection
-30-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
 30-Nov-22,0.23,ICU,Up-to-Date Vaccination
 30-Nov-22,0,ICU,No Minimum Protection
 30-Nov-22,0.23,ICU,Minimum Protection
+30-Nov-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+30-Nov-22,0.01,Deceased (based on date of death),Minimum Protection
+1-Dec-22,0.23,ICU,Minimum Protection
+1-Dec-22,0,Deceased (based on date of death),No Minimum Protection
+1-Dec-22,0.23,ICU,Up-to-Date Vaccination
+1-Dec-22,0,ICU,No Minimum Protection
+1-Dec-22,0.01,Deceased (based on date of death),Up-to-Date Vaccination
+1-Dec-22,0.01,Deceased (based on date of death),Minimum Protection
+2-Dec-22,0.22,ICU,Up-to-Date Vaccination
+2-Dec-22,0.21,ICU,Minimum Protection
+2-Dec-22,0,Deceased (based on date of death),Up-to-Date Vaccination
+2-Dec-22,0,Deceased (based on date of death),No Minimum Protection
+2-Dec-22,0.01,Deceased (based on date of death),Minimum Protection
+2-Dec-22,0.01,ICU,No Minimum Protection
+3-Dec-22,0,Deceased (based on date of death),Up-to-Date Vaccination
+3-Dec-22,0,Deceased (based on date of death),No Minimum Protection
+3-Dec-22,0.21,ICU,Up-to-Date Vaccination
+3-Dec-22,0.03,ICU,No Minimum Protection
+3-Dec-22,0.2,ICU,Minimum Protection
+3-Dec-22,0.01,Deceased (based on date of death),Minimum Protection
+4-Dec-22,0.18,ICU,Minimum Protection
+4-Dec-22,0,Deceased (based on date of death),Up-to-Date Vaccination
+4-Dec-22,0.19,ICU,Up-to-Date Vaccination
+4-Dec-22,0.04,ICU,No Minimum Protection
+4-Dec-22,0.01,Deceased (based on date of death),No Minimum Protection
+4-Dec-22,0.01,Deceased (based on date of death),Minimum Protection
+5-Dec-22,0,Deceased (based on date of death),Up-to-Date Vaccination
+5-Dec-22,0,Deceased (based on date of death),Minimum Protection
+5-Dec-22,0.19,ICU,Up-to-Date Vaccination
+5-Dec-22,0.05,ICU,No Minimum Protection
+5-Dec-22,0.18,ICU,Minimum Protection
+5-Dec-22,0.01,Deceased (based on date of death),No Minimum Protection
+6-Dec-22,0,Deceased (based on date of death),Up-to-Date Vaccination
+6-Dec-22,0,Deceased (based on date of death),Minimum Protection
+6-Dec-22,0.18,ICU,Up-to-Date Vaccination
+6-Dec-22,0.07,ICU,No Minimum Protection
+6-Dec-22,0.17,ICU,Minimum Protection
+6-Dec-22,0.01,Deceased (based on date of death),No Minimum Protection
+7-Dec-22,0.08,ICU,No Minimum Protection
+7-Dec-22,0,Deceased (based on date of death),Up-to-Date Vaccination
+7-Dec-22,0,Deceased (based on date of death),Minimum Protection
+7-Dec-22,0.16,ICU,Up-to-Date Vaccination
+7-Dec-22,0.15,ICU,Minimum Protection
+7-Dec-22,0.01,Deceased (based on date of death),No Minimum Protection
+8-Dec-22,0,Deceased (based on date of death),Minimum Protection
+8-Dec-22,0.16,ICU,Up-to-Date Vaccination
+8-Dec-22,0.1,ICU,No Minimum Protection
+8-Dec-22,0,Deceased (based on date of death),Up-to-Date Vaccination
+8-Dec-22,0.15,ICU,Minimum Protection
+8-Dec-22,0.01,Deceased (based on date of death),No Minimum Protection
+9-Dec-22,0,Deceased (based on date of death),Up-to-Date Vaccination
+9-Dec-22,0,Deceased (based on date of death),Minimum Protection
+9-Dec-22,0.15,ICU,Up-to-Date Vaccination
+9-Dec-22,0.08,ICU,No Minimum Protection
+9-Dec-22,0.14,ICU,Minimum Protection
+9-Dec-22,0.01,Deceased (based on date of death),No Minimum Protection
+10-Dec-22,0.07,ICU,No Minimum Protection
+10-Dec-22,0,Deceased (based on date of death),Up-to-Date Vaccination
+10-Dec-22,0,Deceased (based on date of death),Minimum Protection
+10-Dec-22,0.14,ICU,Up-to-Date Vaccination
+10-Dec-22,0.13,ICU,Minimum Protection
+10-Dec-22,0.01,Deceased (based on date of death),No Minimum Protection
+11-Dec-22,0,Deceased (based on date of death),Up-to-Date Vaccination
+11-Dec-22,0,Deceased (based on date of death),No Minimum Protection
+11-Dec-22,0,Deceased (based on date of death),Minimum Protection
+11-Dec-22,0.13,ICU,Up-to-Date Vaccination
+11-Dec-22,0.05,ICU,No Minimum Protection
+11-Dec-22,0.13,ICU,Minimum Protection
+12-Dec-22,0,Deceased (based on date of death),Up-to-Date Vaccination
+12-Dec-22,0,Deceased (based on date of death),No Minimum Protection
+12-Dec-22,0,Deceased (based on date of death),Minimum Protection
+12-Dec-22,0.11,ICU,Up-to-Date Vaccination
+12-Dec-22,0.04,ICU,No Minimum Protection
+12-Dec-22,0.12,ICU,Minimum Protection
