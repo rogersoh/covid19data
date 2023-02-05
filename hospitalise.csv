@@ -2,8 +2,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,1,ICU,20-Feb-22
 0 - 11 years old,3,Requires Oxygen Supplementation in General Ward,20-Feb-22
 20 - 39 years old,6,Requires Oxygen Supplementation in General Ward,20-Feb-22
-40 - 59 years old,13,Requires Oxygen Supplementation in General Ward,20-Feb-22
 40 - 59 years old,10,ICU,20-Feb-22
+40 - 59 years old,13,Requires Oxygen Supplementation in General Ward,20-Feb-22
 60 - 69 years old,13,ICU,20-Feb-22
 60 - 69 years old,29,Requires Oxygen Supplementation in General Ward,20-Feb-22
 70 years old and above,6,Deceased (based on date of death),20-Feb-22
@@ -18,10 +18,10 @@ age_groups,case,clinical_status,day_of_as_of_date
 40 - 59 years old,1,Deceased (based on date of death),21-Feb-22
 20 - 39 years old,2,ICU,21-Feb-22
 70 years old and above,3,Deceased (based on date of death),21-Feb-22
-20 - 39 years old,4,Requires Oxygen Supplementation in General Ward,21-Feb-22
 0 - 11 years old,4,Requires Oxygen Supplementation in General Ward,21-Feb-22
-40 - 59 years old,10,Requires Oxygen Supplementation in General Ward,21-Feb-22
+20 - 39 years old,4,Requires Oxygen Supplementation in General Ward,21-Feb-22
 40 - 59 years old,11,ICU,21-Feb-22
+40 - 59 years old,10,Requires Oxygen Supplementation in General Ward,21-Feb-22
 60 - 69 years old,12,ICU,21-Feb-22
 60 - 69 years old,31,Requires Oxygen Supplementation in General Ward,21-Feb-22
 70 years old and above,19,ICU,21-Feb-22
@@ -35,8 +35,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 40 - 59 years old,1,Deceased (based on date of death),22-Feb-22
 20 - 39 years old,2,ICU,22-Feb-22
 20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,22-Feb-22
-40 - 59 years old,11,ICU,22-Feb-22
 40 - 59 years old,13,Requires Oxygen Supplementation in General Ward,22-Feb-22
+40 - 59 years old,11,ICU,22-Feb-22
 60 - 69 years old,13,ICU,22-Feb-22
 60 - 69 years old,32,Requires Oxygen Supplementation in General Ward,22-Feb-22
 70 years old and above,5,Deceased (based on date of death),22-Feb-22
@@ -87,8 +87,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,1,ICU,25-Feb-22
 40 - 59 years old,1,Deceased (based on date of death),25-Feb-22
 20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,25-Feb-22
-40 - 59 years old,8,ICU,25-Feb-22
 40 - 59 years old,17,Requires Oxygen Supplementation in General Ward,25-Feb-22
+40 - 59 years old,8,ICU,25-Feb-22
 60 - 69 years old,13,ICU,25-Feb-22
 60 - 69 years old,34,Requires Oxygen Supplementation in General Ward,25-Feb-22
 70 years old and above,13,Deceased (based on date of death),25-Feb-22
@@ -101,11 +101,11 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,793,Hospitalised,25-Feb-22
 60 - 69 years old,238,Hospitalised,25-Feb-22
 20 - 39 years old,1,ICU,26-Feb-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,26-Feb-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,26-Feb-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,26-Feb-22
 40 - 59 years old,1,Deceased (based on date of death),26-Feb-22
-40 - 59 years old,21,Requires Oxygen Supplementation in General Ward,26-Feb-22
 40 - 59 years old,11,ICU,26-Feb-22
+40 - 59 years old,21,Requires Oxygen Supplementation in General Ward,26-Feb-22
 60 - 69 years old,15,ICU,26-Feb-22
 60 - 69 years old,30,Requires Oxygen Supplementation in General Ward,26-Feb-22
 70 years old and above,12,Deceased (based on date of death),26-Feb-22
@@ -118,12 +118,12 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,776,Hospitalised,26-Feb-22
 60 - 69 years old,244,Hospitalised,26-Feb-22
 20 - 39 years old,1,ICU,27-Feb-22
-0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,27-Feb-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,27-Feb-22
+0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,27-Feb-22
 60 - 69 years old,1,Deceased (based on date of death),27-Feb-22
 20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,27-Feb-22
-40 - 59 years old,10,ICU,27-Feb-22
 40 - 59 years old,15,Requires Oxygen Supplementation in General Ward,27-Feb-22
+40 - 59 years old,10,ICU,27-Feb-22
 60 - 69 years old,16,ICU,27-Feb-22
 60 - 69 years old,29,Requires Oxygen Supplementation in General Ward,27-Feb-22
 70 years old and above,10,Deceased (based on date of death),27-Feb-22
@@ -139,8 +139,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,28-Feb-22
 60 - 69 years old,1,Deceased (based on date of death),28-Feb-22
 20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,28-Feb-22
-40 - 59 years old,13,Requires Oxygen Supplementation in General Ward,28-Feb-22
 40 - 59 years old,10,ICU,28-Feb-22
+40 - 59 years old,13,Requires Oxygen Supplementation in General Ward,28-Feb-22
 60 - 69 years old,17,ICU,28-Feb-22
 60 - 69 years old,24,Requires Oxygen Supplementation in General Ward,28-Feb-22
 70 years old and above,9,Deceased (based on date of death),28-Feb-22
@@ -153,8 +153,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,833,Hospitalised,28-Feb-22
 60 - 69 years old,261,Hospitalised,28-Feb-22
 60 - 69 years old,1,Deceased (based on date of death),1-Mar-22
-20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,1-Mar-22
 20 - 39 years old,2,ICU,1-Mar-22
+20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,1-Mar-22
 40 - 59 years old,19,Requires Oxygen Supplementation in General Ward,1-Mar-22
 40 - 59 years old,10,ICU,1-Mar-22
 60 - 69 years old,19,ICU,1-Mar-22
@@ -169,10 +169,10 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,871,Hospitalised,1-Mar-22
 60 - 69 years old,257,Hospitalised,1-Mar-22
 60 - 69 years old,1,Deceased (based on date of death),2-Mar-22
-20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,2-Mar-22
 20 - 39 years old,3,ICU,2-Mar-22
-40 - 59 years old,8,ICU,2-Mar-22
+20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,2-Mar-22
 40 - 59 years old,16,Requires Oxygen Supplementation in General Ward,2-Mar-22
+40 - 59 years old,8,ICU,2-Mar-22
 60 - 69 years old,17,ICU,2-Mar-22
 60 - 69 years old,27,Requires Oxygen Supplementation in General Ward,2-Mar-22
 70 years old and above,10,Deceased (based on date of death),2-Mar-22
@@ -185,8 +185,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,868,Hospitalised,2-Mar-22
 60 - 69 years old,250,Hospitalised,2-Mar-22
 60 - 69 years old,1,Deceased (based on date of death),3-Mar-22
-20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,3-Mar-22
 20 - 39 years old,3,ICU,3-Mar-22
+20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,3-Mar-22
 40 - 59 years old,15,Requires Oxygen Supplementation in General Ward,3-Mar-22
 40 - 59 years old,8,ICU,3-Mar-22
 60 - 69 years old,12,ICU,3-Mar-22
@@ -200,10 +200,10 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,7,Hospitalised,3-Mar-22
 70 years old and above,864,Hospitalised,3-Mar-22
 60 - 69 years old,231,Hospitalised,3-Mar-22
-20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,4-Mar-22
 20 - 39 years old,3,ICU,4-Mar-22
-40 - 59 years old,10,Requires Oxygen Supplementation in General Ward,4-Mar-22
+20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,4-Mar-22
 40 - 59 years old,6,ICU,4-Mar-22
+40 - 59 years old,10,Requires Oxygen Supplementation in General Ward,4-Mar-22
 60 - 69 years old,12,ICU,4-Mar-22
 60 - 69 years old,35,Requires Oxygen Supplementation in General Ward,4-Mar-22
 70 years old and above,13,Deceased (based on date of death),4-Mar-22
@@ -234,8 +234,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,1,Deceased (based on date of death),6-Mar-22
 40 - 59 years old,2,Deceased (based on date of death),6-Mar-22
 20 - 39 years old,3,ICU,6-Mar-22
-40 - 59 years old,7,ICU,6-Mar-22
 40 - 59 years old,12,Requires Oxygen Supplementation in General Ward,6-Mar-22
+40 - 59 years old,7,ICU,6-Mar-22
 60 - 69 years old,12,ICU,6-Mar-22
 60 - 69 years old,37,Requires Oxygen Supplementation in General Ward,6-Mar-22
 70 years old and above,7,Deceased (based on date of death),6-Mar-22
@@ -249,8 +249,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,202,Hospitalised,6-Mar-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,7-Mar-22
 20 - 39 years old,2,ICU,7-Mar-22
-40 - 59 years old,12,Requires Oxygen Supplementation in General Ward,7-Mar-22
 40 - 59 years old,8,ICU,7-Mar-22
+40 - 59 years old,12,Requires Oxygen Supplementation in General Ward,7-Mar-22
 60 - 69 years old,12,ICU,7-Mar-22
 60 - 69 years old,38,Requires Oxygen Supplementation in General Ward,7-Mar-22
 70 years old and above,9,Deceased (based on date of death),7-Mar-22
@@ -267,8 +267,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 20 - 39 years old,2,ICU,8-Mar-22
 60 - 69 years old,3,Deceased (based on date of death),8-Mar-22
 20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,8-Mar-22
-40 - 59 years old,8,ICU,8-Mar-22
 40 - 59 years old,10,Requires Oxygen Supplementation in General Ward,8-Mar-22
+40 - 59 years old,8,ICU,8-Mar-22
 60 - 69 years old,13,ICU,8-Mar-22
 60 - 69 years old,33,Requires Oxygen Supplementation in General Ward,8-Mar-22
 70 years old and above,13,Deceased (based on date of death),8-Mar-22
@@ -337,8 +337,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,206,Hospitalised,11-Mar-22
 20 - 39 years old,2,ICU,12-Mar-22
 20 - 39 years old,5,Requires Oxygen Supplementation in General Ward,12-Mar-22
-40 - 59 years old,9,Requires Oxygen Supplementation in General Ward,12-Mar-22
 40 - 59 years old,6,ICU,12-Mar-22
+40 - 59 years old,9,Requires Oxygen Supplementation in General Ward,12-Mar-22
 60 - 69 years old,14,ICU,12-Mar-22
 60 - 69 years old,27,Requires Oxygen Supplementation in General Ward,12-Mar-22
 70 years old and above,6,Deceased (based on date of death),12-Mar-22
@@ -393,8 +393,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 40 - 59 years old,9,ICU,15-Mar-22
 60 - 69 years old,14,ICU,15-Mar-22
 60 - 69 years old,33,Requires Oxygen Supplementation in General Ward,15-Mar-22
-70 years old and above,9,Deceased (based on date of death),15-Mar-22
 70 years old and above,8,Deceased (based on date of death),15-Mar-22
+70 years old and above,9,Deceased (based on date of death),15-Mar-22
 70 years old and above,15,ICU,15-Mar-22
 70 years old and above,134,Requires Oxygen Supplementation in General Ward,15-Mar-22
 40 - 59 years old,101,Hospitalised,15-Mar-22
@@ -426,8 +426,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,1,Deceased (based on date of death),17-Mar-22
 20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,17-Mar-22
 60 - 69 years old,2,Deceased (based on date of death),17-Mar-22
-40 - 59 years old,7,ICU,17-Mar-22
 40 - 59 years old,11,Requires Oxygen Supplementation in General Ward,17-Mar-22
+40 - 59 years old,7,ICU,17-Mar-22
 60 - 69 years old,7,ICU,17-Mar-22
 60 - 69 years old,29,Requires Oxygen Supplementation in General Ward,17-Mar-22
 70 years old and above,7,Deceased (based on date of death),17-Mar-22
@@ -449,8 +449,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 40 - 59 years old,12,Requires Oxygen Supplementation in General Ward,18-Mar-22
 60 - 69 years old,8,ICU,18-Mar-22
 60 - 69 years old,25,Requires Oxygen Supplementation in General Ward,18-Mar-22
-70 years old and above,7,Deceased (based on date of death),18-Mar-22
 70 years old and above,4,Deceased (based on date of death),18-Mar-22
+70 years old and above,7,Deceased (based on date of death),18-Mar-22
 70 years old and above,13,ICU,18-Mar-22
 70 years old and above,96,Requires Oxygen Supplementation in General Ward,18-Mar-22
 40 - 59 years old,90,Hospitalised,18-Mar-22
@@ -461,11 +461,11 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,169,Hospitalised,18-Mar-22
 20 - 39 years old,1,ICU,19-Mar-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,19-Mar-22
-40 - 59 years old,1,Deceased (based on date of death),19-Mar-22
 70 years old and above,1,Deceased (based on date of death),19-Mar-22
+40 - 59 years old,1,Deceased (based on date of death),19-Mar-22
 20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,19-Mar-22
-40 - 59 years old,12,Requires Oxygen Supplementation in General Ward,19-Mar-22
 40 - 59 years old,7,ICU,19-Mar-22
+40 - 59 years old,12,Requires Oxygen Supplementation in General Ward,19-Mar-22
 60 - 69 years old,7,ICU,19-Mar-22
 60 - 69 years old,20,Requires Oxygen Supplementation in General Ward,19-Mar-22
 70 years old and above,5,Deceased (based on date of death),19-Mar-22
@@ -528,15 +528,15 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,534,Hospitalised,22-Mar-22
 60 - 69 years old,150,Hospitalised,22-Mar-22
 20 - 39 years old,1,ICU,23-Mar-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,23-Mar-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,23-Mar-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,23-Mar-22
 20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,23-Mar-22
 40 - 59 years old,5,ICU,23-Mar-22
 40 - 59 years old,11,Requires Oxygen Supplementation in General Ward,23-Mar-22
 60 - 69 years old,8,ICU,23-Mar-22
 60 - 69 years old,17,Requires Oxygen Supplementation in General Ward,23-Mar-22
-70 years old and above,4,Deceased (based on date of death),23-Mar-22
 70 years old and above,5,Deceased (based on date of death),23-Mar-22
+70 years old and above,4,Deceased (based on date of death),23-Mar-22
 70 years old and above,12,ICU,23-Mar-22
 70 years old and above,85,Requires Oxygen Supplementation in General Ward,23-Mar-22
 40 - 59 years old,83,Hospitalised,23-Mar-22
@@ -551,8 +551,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 40 - 59 years old,10,Requires Oxygen Supplementation in General Ward,24-Mar-22
 60 - 69 years old,9,ICU,24-Mar-22
 60 - 69 years old,17,Requires Oxygen Supplementation in General Ward,24-Mar-22
-70 years old and above,9,Deceased (based on date of death),24-Mar-22
 70 years old and above,8,Deceased (based on date of death),24-Mar-22
+70 years old and above,9,Deceased (based on date of death),24-Mar-22
 70 years old and above,9,ICU,24-Mar-22
 70 years old and above,85,Requires Oxygen Supplementation in General Ward,24-Mar-22
 40 - 59 years old,82,Hospitalised,24-Mar-22
@@ -565,12 +565,12 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,2,Requires Oxygen Supplementation in General Ward,25-Mar-22
 12 - 19 years old,2,Hospitalised,25-Mar-22
 60 - 69 years old,3,Deceased (based on date of death),25-Mar-22
-40 - 59 years old,6,ICU,25-Mar-22
 40 - 59 years old,9,Requires Oxygen Supplementation in General Ward,25-Mar-22
+40 - 59 years old,6,ICU,25-Mar-22
 60 - 69 years old,7,ICU,25-Mar-22
 60 - 69 years old,16,Requires Oxygen Supplementation in General Ward,25-Mar-22
-70 years old and above,5,Deceased (based on date of death),25-Mar-22
 70 years old and above,6,Deceased (based on date of death),25-Mar-22
+70 years old and above,5,Deceased (based on date of death),25-Mar-22
 70 years old and above,14,ICU,25-Mar-22
 70 years old and above,74,Requires Oxygen Supplementation in General Ward,25-Mar-22
 40 - 59 years old,80,Hospitalised,25-Mar-22
@@ -581,8 +581,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 20 - 39 years old,1,ICU,26-Mar-22
 0 - 11 years old,2,Requires Oxygen Supplementation in General Ward,26-Mar-22
 70 years old and above,3,Deceased (based on date of death),26-Mar-22
-40 - 59 years old,6,ICU,26-Mar-22
 40 - 59 years old,6,Requires Oxygen Supplementation in General Ward,26-Mar-22
+40 - 59 years old,6,ICU,26-Mar-22
 60 - 69 years old,6,ICU,26-Mar-22
 60 - 69 years old,19,Requires Oxygen Supplementation in General Ward,26-Mar-22
 70 years old and above,8,Deceased (based on date of death),26-Mar-22
@@ -626,8 +626,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 20 - 39 years old,1,ICU,29-Mar-22
 12 - 19 years old,2,Hospitalised,29-Mar-22
 70 years old and above,3,Deceased (based on date of death),29-Mar-22
-40 - 59 years old,5,Requires Oxygen Supplementation in General Ward,29-Mar-22
 40 - 59 years old,5,ICU,29-Mar-22
+40 - 59 years old,5,Requires Oxygen Supplementation in General Ward,29-Mar-22
 60 - 69 years old,9,ICU,29-Mar-22
 60 - 69 years old,20,Requires Oxygen Supplementation in General Ward,29-Mar-22
 70 years old and above,10,ICU,29-Mar-22
@@ -715,8 +715,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,4-Apr-22
 12 - 19 years old,1,Hospitalised,4-Apr-22
 70 years old and above,3,Deceased (based on date of death),4-Apr-22
-40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,4-Apr-22
 40 - 59 years old,4,ICU,4-Apr-22
+40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,4-Apr-22
 60 - 69 years old,7,ICU,4-Apr-22
 60 - 69 years old,12,Requires Oxygen Supplementation in General Ward,4-Apr-22
 70 years old and above,8,ICU,4-Apr-22
@@ -729,8 +729,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 20 - 39 years old,1,ICU,5-Apr-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,5-Apr-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,5-Apr-22
-60 - 69 years old,1,Deceased (based on date of death),5-Apr-22
 70 years old and above,1,Deceased (based on date of death),5-Apr-22
+60 - 69 years old,1,Deceased (based on date of death),5-Apr-22
 12 - 19 years old,1,Hospitalised,5-Apr-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,5-Apr-22
 40 - 59 years old,4,ICU,5-Apr-22
@@ -761,8 +761,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,64,Hospitalised,6-Apr-22
 20 - 39 years old,1,ICU,7-Apr-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,7-Apr-22
-40 - 59 years old,1,Deceased (based on date of death),7-Apr-22
 60 - 69 years old,1,Deceased (based on date of death),7-Apr-22
+40 - 59 years old,1,Deceased (based on date of death),7-Apr-22
 12 - 19 years old,1,Hospitalised,7-Apr-22
 40 - 59 years old,3,ICU,7-Apr-22
 70 years old and above,3,Deceased (based on date of death),7-Apr-22
@@ -781,8 +781,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,1,Deceased (based on date of death),8-Apr-22
 12 - 19 years old,1,Hospitalised,8-Apr-22
 40 - 59 years old,2,ICU,8-Apr-22
-60 - 69 years old,5,Requires Oxygen Supplementation in General Ward,8-Apr-22
 40 - 59 years old,5,Requires Oxygen Supplementation in General Ward,8-Apr-22
+60 - 69 years old,5,Requires Oxygen Supplementation in General Ward,8-Apr-22
 60 - 69 years old,6,ICU,8-Apr-22
 70 years old and above,9,ICU,8-Apr-22
 70 years old and above,28,Requires Oxygen Supplementation in General Ward,8-Apr-22
@@ -806,8 +806,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,207,Hospitalised,9-Apr-22
 60 - 69 years old,46,Hospitalised,9-Apr-22
 20 - 39 years old,1,ICU,10-Apr-22
-40 - 59 years old,1,Deceased (based on date of death),10-Apr-22
 70 years old and above,1,Deceased (based on date of death),10-Apr-22
+40 - 59 years old,1,Deceased (based on date of death),10-Apr-22
 12 - 19 years old,2,Hospitalised,10-Apr-22
 40 - 59 years old,2,ICU,10-Apr-22
 40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,10-Apr-22
@@ -823,8 +823,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 20 - 39 years old,1,ICU,11-Apr-22
 12 - 19 years old,2,Hospitalised,11-Apr-22
 40 - 59 years old,2,Deceased (based on date of death),11-Apr-22
-40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,11-Apr-22
 40 - 59 years old,3,ICU,11-Apr-22
+40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,11-Apr-22
 60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,11-Apr-22
 60 - 69 years old,7,ICU,11-Apr-22
 70 years old and above,7,ICU,11-Apr-22
@@ -835,8 +835,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,203,Hospitalised,11-Apr-22
 60 - 69 years old,29,Hospitalised,11-Apr-22
 20 - 39 years old,1,ICU,12-Apr-22
-60 - 69 years old,1,Deceased (based on date of death),12-Apr-22
 40 - 59 years old,1,Deceased (based on date of death),12-Apr-22
+60 - 69 years old,1,Deceased (based on date of death),12-Apr-22
 70 years old and above,2,Deceased (based on date of death),12-Apr-22
 40 - 59 years old,2,ICU,12-Apr-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,12-Apr-22
@@ -865,8 +865,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,1,Deceased (based on date of death),14-Apr-22
 12 - 19 years old,2,Hospitalised,14-Apr-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,14-Apr-22
-60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,14-Apr-22
 60 - 69 years old,4,ICU,14-Apr-22
+60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,14-Apr-22
 70 years old and above,5,ICU,14-Apr-22
 70 years old and above,28,Requires Oxygen Supplementation in General Ward,14-Apr-22
 40 - 59 years old,17,Hospitalised,14-Apr-22
@@ -876,8 +876,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,32,Hospitalised,14-Apr-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,15-Apr-22
 60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,15-Apr-22
-60 - 69 years old,1,Deceased (based on date of death),15-Apr-22
 70 years old and above,1,Deceased (based on date of death),15-Apr-22
+60 - 69 years old,1,Deceased (based on date of death),15-Apr-22
 12 - 19 years old,2,Hospitalised,15-Apr-22
 60 - 69 years old,4,ICU,15-Apr-22
 70 years old and above,6,ICU,15-Apr-22
@@ -902,8 +902,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 40 - 59 years old,1,ICU,17-Apr-22
 60 - 69 years old,1,ICU,17-Apr-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,17-Apr-22
-70 years old and above,2,ICU,17-Apr-22
 70 years old and above,2,Deceased (based on date of death),17-Apr-22
+70 years old and above,2,ICU,17-Apr-22
 60 - 69 years old,7,Requires Oxygen Supplementation in General Ward,17-Apr-22
 70 years old and above,33,Requires Oxygen Supplementation in General Ward,17-Apr-22
 40 - 59 years old,14,Hospitalised,17-Apr-22
@@ -970,8 +970,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,2,Deceased (based on date of death),22-Apr-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,22-Apr-22
 40 - 59 years old,2,ICU,22-Apr-22
-70 years old and above,3,ICU,22-Apr-22
 70 years old and above,3,Deceased (based on date of death),22-Apr-22
+70 years old and above,3,ICU,22-Apr-22
 60 - 69 years old,3,Requires Oxygen Supplementation in General Ward,22-Apr-22
 60 - 69 years old,5,ICU,22-Apr-22
 70 years old and above,19,Requires Oxygen Supplementation in General Ward,22-Apr-22
@@ -995,8 +995,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 40 - 59 years old,1,ICU,24-Apr-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,24-Apr-22
 12 - 19 years old,2,Hospitalised,24-Apr-22
-70 years old and above,3,ICU,24-Apr-22
 70 years old and above,3,Deceased (based on date of death),24-Apr-22
+70 years old and above,3,ICU,24-Apr-22
 60 - 69 years old,4,ICU,24-Apr-22
 60 - 69 years old,5,Requires Oxygen Supplementation in General Ward,24-Apr-22
 70 years old and above,24,Requires Oxygen Supplementation in General Ward,24-Apr-22
@@ -1009,8 +1009,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,25-Apr-22
 40 - 59 years old,1,Deceased (based on date of death),25-Apr-22
 12 - 19 years old,2,Hospitalised,25-Apr-22
-70 years old and above,2,ICU,25-Apr-22
 70 years old and above,2,Deceased (based on date of death),25-Apr-22
+70 years old and above,2,ICU,25-Apr-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,25-Apr-22
 60 - 69 years old,4,ICU,25-Apr-22
 60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,25-Apr-22
@@ -1062,8 +1062,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,155,Hospitalised,28-Apr-22
 60 - 69 years old,28,Hospitalised,28-Apr-22
 40 - 59 years old,1,ICU,29-Apr-22
-20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,29-Apr-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,29-Apr-22
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,29-Apr-22
 60 - 69 years old,1,Deceased (based on date of death),29-Apr-22
 60 - 69 years old,2,ICU,29-Apr-22
 70 years old and above,3,ICU,29-Apr-22
@@ -1076,8 +1076,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,24,Hospitalised,29-Apr-22
 40 - 59 years old,1,ICU,30-Apr-22
 60 - 69 years old,2,ICU,30-Apr-22
-70 years old and above,3,Deceased (based on date of death),30-Apr-22
 70 years old and above,3,ICU,30-Apr-22
+70 years old and above,3,Deceased (based on date of death),30-Apr-22
 60 - 69 years old,3,Requires Oxygen Supplementation in General Ward,30-Apr-22
 40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,30-Apr-22
 70 years old and above,8,Requires Oxygen Supplementation in General Ward,30-Apr-22
@@ -1087,8 +1087,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,147,Hospitalised,30-Apr-22
 60 - 69 years old,33,Hospitalised,30-Apr-22
 40 - 59 years old,1,ICU,1-May-22
-60 - 69 years old,1,Deceased (based on date of death),1-May-22
 70 years old and above,1,Deceased (based on date of death),1-May-22
+60 - 69 years old,1,Deceased (based on date of death),1-May-22
 12 - 19 years old,1,Hospitalised,1-May-22
 0 - 11 years old,2,Hospitalised,1-May-22
 60 - 69 years old,2,ICU,1-May-22
@@ -1156,8 +1156,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 40 - 59 years old,1,ICU,6-May-22
 60 - 69 years old,1,ICU,6-May-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,6-May-22
-60 - 69 years old,1,Deceased (based on date of death),6-May-22
 70 years old and above,1,Deceased (based on date of death),6-May-22
+60 - 69 years old,1,Deceased (based on date of death),6-May-22
 70 years old and above,3,ICU,6-May-22
 60 - 69 years old,7,Requires Oxygen Supplementation in General Ward,6-May-22
 70 years old and above,16,Requires Oxygen Supplementation in General Ward,6-May-22
@@ -1274,14 +1274,14 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,5,Hospitalised,14-May-22
 70 years old and above,120,Hospitalised,14-May-22
 60 - 69 years old,31,Hospitalised,14-May-22
-40 - 59 years old,1,Deceased (based on date of death),15-May-22
-60 - 69 years old,1,Deceased (based on date of death),15-May-22
 70 years old and above,1,Deceased (based on date of death),15-May-22
+60 - 69 years old,1,Deceased (based on date of death),15-May-22
+40 - 59 years old,1,Deceased (based on date of death),15-May-22
 20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,15-May-22
 70 years old and above,2,Deceased (based on date of death),15-May-22
 60 - 69 years old,2,ICU,15-May-22
-40 - 59 years old,3,ICU,15-May-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,15-May-22
+40 - 59 years old,3,ICU,15-May-22
 60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,15-May-22
 70 years old and above,4,ICU,15-May-22
 70 years old and above,27,Requires Oxygen Supplementation in General Ward,15-May-22
@@ -1293,8 +1293,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,38,Hospitalised,15-May-22
 70 years old and above,2,Deceased (based on date of death),16-May-22
 70 years old and above,2,ICU,16-May-22
-40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,16-May-22
 40 - 59 years old,3,ICU,16-May-22
+40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,16-May-22
 60 - 69 years old,3,ICU,16-May-22
 60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,16-May-22
 70 years old and above,27,Requires Oxygen Supplementation in General Ward,16-May-22
@@ -1317,8 +1317,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,5,Hospitalised,17-May-22
 70 years old and above,115,Hospitalised,17-May-22
 60 - 69 years old,33,Hospitalised,17-May-22
-40 - 59 years old,1,Deceased (based on date of death),18-May-22
 70 years old and above,1,Deceased (based on date of death),18-May-22
+40 - 59 years old,1,Deceased (based on date of death),18-May-22
 40 - 59 years old,2,ICU,18-May-22
 70 years old and above,3,ICU,18-May-22
 60 - 69 years old,3,ICU,18-May-22
@@ -1343,8 +1343,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,3,Hospitalised,19-May-22
 70 years old and above,141,Hospitalised,19-May-22
 60 - 69 years old,32,Hospitalised,19-May-22
-70 years old and above,2,ICU,20-May-22
 70 years old and above,2,Deceased (based on date of death),20-May-22
+70 years old and above,2,ICU,20-May-22
 40 - 59 years old,3,ICU,20-May-22
 60 - 69 years old,3,ICU,20-May-22
 40 - 59 years old,7,Requires Oxygen Supplementation in General Ward,20-May-22
@@ -1567,8 +1567,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,152,Hospitalised,5-Jun-22
 60 - 69 years old,48,Hospitalised,5-Jun-22
 40 - 59 years old,1,ICU,6-Jun-22
-0 - 11 years old,1,ICU,6-Jun-22
 60 - 69 years old,1,ICU,6-Jun-22
+0 - 11 years old,1,ICU,6-Jun-22
 12 - 19 years old,2,Hospitalised,6-Jun-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,6-Jun-22
 60 - 69 years old,5,Requires Oxygen Supplementation in General Ward,6-Jun-22
@@ -1580,8 +1580,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,130,Hospitalised,6-Jun-22
 60 - 69 years old,41,Hospitalised,6-Jun-22
 40 - 59 years old,1,ICU,7-Jun-22
-0 - 11 years old,1,ICU,7-Jun-22
 60 - 69 years old,1,ICU,7-Jun-22
+0 - 11 years old,1,ICU,7-Jun-22
 12 - 19 years old,2,Hospitalised,7-Jun-22
 60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,7-Jun-22
 70 years old and above,5,ICU,7-Jun-22
@@ -1606,9 +1606,9 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,110,Hospitalised,8-Jun-22
 60 - 69 years old,37,Hospitalised,8-Jun-22
 0 - 11 years old,1,ICU,9-Jun-22
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,9-Jun-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,9-Jun-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,9-Jun-22
-40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,9-Jun-22
 70 years old and above,1,Deceased (based on date of death),9-Jun-22
 12 - 19 years old,2,Hospitalised,9-Jun-22
 70 years old and above,3,ICU,9-Jun-22
@@ -1619,9 +1619,9 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,8,Hospitalised,9-Jun-22
 70 years old and above,114,Hospitalised,9-Jun-22
 60 - 69 years old,37,Hospitalised,9-Jun-22
-20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,10-Jun-22
-0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,10-Jun-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,10-Jun-22
+0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,10-Jun-22
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,10-Jun-22
 70 years old and above,1,Deceased (based on date of death),10-Jun-22
 60 - 69 years old,2,Requires Oxygen Supplementation in General Ward,10-Jun-22
 70 years old and above,3,ICU,10-Jun-22
@@ -1632,9 +1632,9 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,4,Hospitalised,10-Jun-22
 70 years old and above,114,Hospitalised,10-Jun-22
 60 - 69 years old,38,Hospitalised,10-Jun-22
-20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,11-Jun-22
-40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,11-Jun-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,11-Jun-22
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,11-Jun-22
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,11-Jun-22
 70 years old and above,2,ICU,11-Jun-22
 60 - 69 years old,3,Requires Oxygen Supplementation in General Ward,11-Jun-22
 70 years old and above,20,Requires Oxygen Supplementation in General Ward,11-Jun-22
@@ -1645,8 +1645,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,123,Hospitalised,11-Jun-22
 60 - 69 years old,33,Hospitalised,11-Jun-22
 70 years old and above,1,ICU,12-Jun-22
-0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,12-Jun-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,12-Jun-22
+0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,12-Jun-22
 70 years old and above,1,Deceased (based on date of death),12-Jun-22
 12 - 19 years old,2,Hospitalised,12-Jun-22
 60 - 69 years old,2,Requires Oxygen Supplementation in General Ward,12-Jun-22
@@ -1656,9 +1656,9 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,10,Hospitalised,12-Jun-22
 70 years old and above,127,Hospitalised,12-Jun-22
 60 - 69 years old,37,Hospitalised,12-Jun-22
-0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,13-Jun-22
-60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,13-Jun-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,13-Jun-22
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,13-Jun-22
+0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,13-Jun-22
 70 years old and above,1,Deceased (based on date of death),13-Jun-22
 70 years old and above,3,ICU,13-Jun-22
 70 years old and above,24,Requires Oxygen Supplementation in General Ward,13-Jun-22
@@ -1668,10 +1668,10 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,5,Hospitalised,13-Jun-22
 70 years old and above,136,Hospitalised,13-Jun-22
 60 - 69 years old,37,Hospitalised,13-Jun-22
-60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,14-Jun-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,14-Jun-22
-70 years old and above,2,ICU,14-Jun-22
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,14-Jun-22
 70 years old and above,2,Deceased (based on date of death),14-Jun-22
+70 years old and above,2,ICU,14-Jun-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,14-Jun-22
 70 years old and above,24,Requires Oxygen Supplementation in General Ward,14-Jun-22
 40 - 59 years old,17,Hospitalised,14-Jun-22
@@ -1723,8 +1723,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,43,Hospitalised,18-Jun-22
 60 - 69 years old,1,ICU,19-Jun-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,19-Jun-22
-60 - 69 years old,1,Deceased (based on date of death),19-Jun-22
 70 years old and above,1,Deceased (based on date of death),19-Jun-22
+60 - 69 years old,1,Deceased (based on date of death),19-Jun-22
 12 - 19 years old,2,Hospitalised,19-Jun-22
 60 - 69 years old,5,Requires Oxygen Supplementation in General Ward,19-Jun-22
 70 years old and above,7,ICU,19-Jun-22
@@ -1778,8 +1778,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,7,Hospitalised,23-Jun-22
 70 years old and above,182,Hospitalised,23-Jun-22
 60 - 69 years old,42,Hospitalised,23-Jun-22
-0 - 11 years old,1,ICU,24-Jun-22
 60 - 69 years old,1,ICU,24-Jun-22
+0 - 11 years old,1,ICU,24-Jun-22
 40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,24-Jun-22
 60 - 69 years old,5,Requires Oxygen Supplementation in General Ward,24-Jun-22
 70 years old and above,7,ICU,24-Jun-22
@@ -1819,8 +1819,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 40 - 59 years old,1,ICU,27-Jun-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,27-Jun-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,27-Jun-22
-0 - 11 years old,1,Deceased (based on date of death),27-Jun-22
 70 years old and above,1,Deceased (based on date of death),27-Jun-22
+0 - 11 years old,1,Deceased (based on date of death),27-Jun-22
 60 - 69 years old,2,ICU,27-Jun-22
 60 - 69 years old,6,Requires Oxygen Supplementation in General Ward,27-Jun-22
 70 years old and above,6,ICU,27-Jun-22
@@ -1858,8 +1858,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,5,Hospitalised,29-Jun-22
 70 years old and above,239,Hospitalised,29-Jun-22
 60 - 69 years old,57,Hospitalised,29-Jun-22
-60 - 69 years old,1,Deceased (based on date of death),30-Jun-22
 70 years old and above,1,Deceased (based on date of death),30-Jun-22
+60 - 69 years old,1,Deceased (based on date of death),30-Jun-22
 40 - 59 years old,2,ICU,30-Jun-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,30-Jun-22
 60 - 69 years old,5,ICU,30-Jun-22
@@ -1918,8 +1918,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,66,Hospitalised,3-Jul-22
 40 - 59 years old,1,ICU,4-Jul-22
 20 - 39 years old,1,ICU,4-Jul-22
-0 - 11 years old,1,ICU,4-Jul-22
 60 - 69 years old,1,ICU,4-Jul-22
+0 - 11 years old,1,ICU,4-Jul-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,4-Jul-22
 70 years old and above,2,Deceased (based on date of death),4-Jul-22
 70 years old and above,3,Deceased (based on date of death),4-Jul-22
@@ -1979,8 +1979,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,358,Hospitalised,7-Jul-22
 60 - 69 years old,88,Hospitalised,7-Jul-22
 12 - 19 years old,1,ICU,8-Jul-22
-40 - 59 years old,1,Deceased (based on date of death),8-Jul-22
 70 years old and above,1,Deceased (based on date of death),8-Jul-22
+40 - 59 years old,1,Deceased (based on date of death),8-Jul-22
 20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,8-Jul-22
 60 - 69 years old,2,ICU,8-Jul-22
 40 - 59 years old,2,ICU,8-Jul-22
@@ -2025,8 +2025,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,342,Hospitalised,10-Jul-22
 60 - 69 years old,94,Hospitalised,10-Jul-22
 40 - 59 years old,1,ICU,11-Jul-22
-40 - 59 years old,1,Deceased (based on date of death),11-Jul-22
 70 years old and above,1,Deceased (based on date of death),11-Jul-22
+40 - 59 years old,1,Deceased (based on date of death),11-Jul-22
 20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,11-Jul-22
 60 - 69 years old,2,ICU,11-Jul-22
 40 - 59 years old,6,Requires Oxygen Supplementation in General Ward,11-Jul-22
@@ -2041,8 +2041,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,86,Hospitalised,11-Jul-22
 40 - 59 years old,1,ICU,12-Jul-22
 60 - 69 years old,1,ICU,12-Jul-22
-60 - 69 years old,1,Deceased (based on date of death),12-Jul-22
 40 - 59 years old,1,Deceased (based on date of death),12-Jul-22
+60 - 69 years old,1,Deceased (based on date of death),12-Jul-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,12-Jul-22
 60 - 69 years old,16,Requires Oxygen Supplementation in General Ward,12-Jul-22
 70 years old and above,4,Deceased (based on date of death),12-Jul-22
@@ -2092,8 +2092,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,8,Hospitalised,15-Jul-22
 70 years old and above,411,Hospitalised,15-Jul-22
 60 - 69 years old,93,Hospitalised,15-Jul-22
-60 - 69 years old,1,Deceased (based on date of death),16-Jul-22
 70 years old and above,1,Deceased (based on date of death),16-Jul-22
+60 - 69 years old,1,Deceased (based on date of death),16-Jul-22
 40 - 59 years old,2,ICU,16-Jul-22
 60 - 69 years old,3,ICU,16-Jul-22
 40 - 59 years old,10,Requires Oxygen Supplementation in General Ward,16-Jul-22
@@ -2107,8 +2107,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,400,Hospitalised,16-Jul-22
 60 - 69 years old,96,Hospitalised,16-Jul-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,17-Jul-22
-0 - 11 years old,1,Deceased (based on date of death),17-Jul-22
 60 - 69 years old,1,Deceased (based on date of death),17-Jul-22
+0 - 11 years old,1,Deceased (based on date of death),17-Jul-22
 70 years old and above,2,Deceased (based on date of death),17-Jul-22
 60 - 69 years old,3,ICU,17-Jul-22
 40 - 59 years old,8,Requires Oxygen Supplementation in General Ward,17-Jul-22
@@ -2138,8 +2138,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,19-Jul-22
 20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,19-Jul-22
 40 - 59 years old,2,ICU,19-Jul-22
-60 - 69 years old,4,ICU,19-Jul-22
 40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,19-Jul-22
+60 - 69 years old,4,ICU,19-Jul-22
 60 - 69 years old,11,Requires Oxygen Supplementation in General Ward,19-Jul-22
 70 years old and above,6,Deceased (based on date of death),19-Jul-22
 70 years old and above,7,ICU,19-Jul-22
@@ -2180,8 +2180,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,414,Hospitalised,21-Jul-22
 60 - 69 years old,103,Hospitalised,21-Jul-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,22-Jul-22
-60 - 69 years old,1,Deceased (based on date of death),22-Jul-22
 40 - 59 years old,1,Deceased (based on date of death),22-Jul-22
+60 - 69 years old,1,Deceased (based on date of death),22-Jul-22
 60 - 69 years old,2,ICU,22-Jul-22
 40 - 59 years old,2,ICU,22-Jul-22
 70 years old and above,3,Deceased (based on date of death),22-Jul-22
@@ -2211,9 +2211,9 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,1,Deceased (based on date of death),24-Jul-22
 20 - 39 years old,2,ICU,24-Jul-22
 40 - 59 years old,2,ICU,24-Jul-22
-40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,24-Jul-22
-60 - 69 years old,4,ICU,24-Jul-22
 60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,24-Jul-22
+60 - 69 years old,4,ICU,24-Jul-22
+40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,24-Jul-22
 70 years old and above,13,ICU,24-Jul-22
 70 years old and above,61,Requires Oxygen Supplementation in General Ward,24-Jul-22
 40 - 59 years old,53,Hospitalised,24-Jul-22
@@ -2324,8 +2324,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,91,Hospitalised,31-Jul-22
 70 years old and above,1,Deceased (based on date of death),1-Aug-22
 60 - 69 years old,2,ICU,1-Aug-22
-40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,1-Aug-22
 40 - 59 years old,3,ICU,1-Aug-22
+40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,1-Aug-22
 60 - 69 years old,13,Requires Oxygen Supplementation in General Ward,1-Aug-22
 70 years old and above,10,ICU,1-Aug-22
 70 years old and above,49,Requires Oxygen Supplementation in General Ward,1-Aug-22
@@ -2337,8 +2337,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,87,Hospitalised,1-Aug-22
 40 - 59 years old,1,Deceased (based on date of death),2-Aug-22
 60 - 69 years old,2,ICU,2-Aug-22
-40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,2-Aug-22
 40 - 59 years old,3,ICU,2-Aug-22
+40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,2-Aug-22
 70 years old and above,3,Deceased (based on date of death),2-Aug-22
 60 - 69 years old,9,Requires Oxygen Supplementation in General Ward,2-Aug-22
 70 years old and above,10,ICU,2-Aug-22
@@ -2424,8 +2424,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,361,Hospitalised,7-Aug-22
 60 - 69 years old,82,Hospitalised,7-Aug-22
 12 - 19 years old,1,ICU,8-Aug-22
-60 - 69 years old,1,Deceased (based on date of death),8-Aug-22
 70 years old and above,1,Deceased (based on date of death),8-Aug-22
+60 - 69 years old,1,Deceased (based on date of death),8-Aug-22
 40 - 59 years old,2,ICU,8-Aug-22
 20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,8-Aug-22
 40 - 59 years old,6,Requires Oxygen Supplementation in General Ward,8-Aug-22
@@ -2458,8 +2458,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,1,Deceased (based on date of death),10-Aug-22
 70 years old and above,2,Deceased (based on date of death),10-Aug-22
 40 - 59 years old,2,ICU,10-Aug-22
-20 - 39 years old,5,Requires Oxygen Supplementation in General Ward,10-Aug-22
 60 - 69 years old,5,ICU,10-Aug-22
+20 - 39 years old,5,Requires Oxygen Supplementation in General Ward,10-Aug-22
 40 - 59 years old,9,Requires Oxygen Supplementation in General Ward,10-Aug-22
 60 - 69 years old,16,Requires Oxygen Supplementation in General Ward,10-Aug-22
 70 years old and above,19,ICU,10-Aug-22
@@ -2533,8 +2533,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,305,Hospitalised,14-Aug-22
 60 - 69 years old,87,Hospitalised,14-Aug-22
 12 - 19 years old,1,ICU,15-Aug-22
-20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,15-Aug-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,15-Aug-22
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,15-Aug-22
 0 - 11 years old,2,ICU,15-Aug-22
 70 years old and above,2,Deceased (based on date of death),15-Aug-22
 60 - 69 years old,2,ICU,15-Aug-22
@@ -2549,8 +2549,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,4,Hospitalised,15-Aug-22
 70 years old and above,308,Hospitalised,15-Aug-22
 60 - 69 years old,83,Hospitalised,15-Aug-22
-12 - 19 years old,1,ICU,16-Aug-22
 0 - 11 years old,1,ICU,16-Aug-22
+12 - 19 years old,1,ICU,16-Aug-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,16-Aug-22
 60 - 69 years old,2,ICU,16-Aug-22
 40 - 59 years old,2,ICU,16-Aug-22
@@ -2583,8 +2583,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,1,ICU,18-Aug-22
 0 - 11 years old,1,ICU,18-Aug-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,18-Aug-22
-40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,18-Aug-22
 40 - 59 years old,3,ICU,18-Aug-22
+40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,18-Aug-22
 60 - 69 years old,7,Requires Oxygen Supplementation in General Ward,18-Aug-22
 70 years old and above,4,Deceased (based on date of death),18-Aug-22
 70 years old and above,5,ICU,18-Aug-22
@@ -2597,8 +2597,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,62,Hospitalised,18-Aug-22
 0 - 11 years old,1,ICU,19-Aug-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,19-Aug-22
-40 - 59 years old,1,Deceased (based on date of death),19-Aug-22
 70 years old and above,1,Deceased (based on date of death),19-Aug-22
+40 - 59 years old,1,Deceased (based on date of death),19-Aug-22
 70 years old and above,2,ICU,19-Aug-22
 60 - 69 years old,2,ICU,19-Aug-22
 40 - 59 years old,2,ICU,19-Aug-22
@@ -2624,11 +2624,11 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,4,Hospitalised,20-Aug-22
 70 years old and above,183,Hospitalised,20-Aug-22
 60 - 69 years old,47,Hospitalised,20-Aug-22
-0 - 11 years old,1,ICU,21-Aug-22
 60 - 69 years old,1,ICU,21-Aug-22
+0 - 11 years old,1,ICU,21-Aug-22
 70 years old and above,2,Deceased (based on date of death),21-Aug-22
-40 - 59 years old,4,ICU,21-Aug-22
 40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,21-Aug-22
+40 - 59 years old,4,ICU,21-Aug-22
 60 - 69 years old,11,Requires Oxygen Supplementation in General Ward,21-Aug-22
 70 years old and above,4,ICU,21-Aug-22
 70 years old and above,23,Requires Oxygen Supplementation in General Ward,21-Aug-22
@@ -2652,8 +2652,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,13,Hospitalised,22-Aug-22
 70 years old and above,178,Hospitalised,22-Aug-22
 60 - 69 years old,62,Hospitalised,22-Aug-22
-0 - 11 years old,1,ICU,23-Aug-22
 60 - 69 years old,1,ICU,23-Aug-22
+0 - 11 years old,1,ICU,23-Aug-22
 12 - 19 years old,1,Hospitalised,23-Aug-22
 70 years old and above,2,Deceased (based on date of death),23-Aug-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,23-Aug-22
@@ -2667,8 +2667,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,192,Hospitalised,23-Aug-22
 60 - 69 years old,63,Hospitalised,23-Aug-22
 60 - 69 years old,1,ICU,24-Aug-22
-0 - 11 years old,1,ICU,24-Aug-22
 70 years old and above,1,ICU,24-Aug-22
+0 - 11 years old,1,ICU,24-Aug-22
 60 - 69 years old,1,Deceased (based on date of death),24-Aug-22
 12 - 19 years old,1,Hospitalised,24-Aug-22
 70 years old and above,2,Deceased (based on date of death),24-Aug-22
@@ -2681,9 +2681,9 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,19,Hospitalised,24-Aug-22
 70 years old and above,192,Hospitalised,24-Aug-22
 60 - 69 years old,68,Hospitalised,24-Aug-22
-0 - 11 years old,1,ICU,25-Aug-22
-70 years old and above,1,ICU,25-Aug-22
 60 - 69 years old,1,ICU,25-Aug-22
+70 years old and above,1,ICU,25-Aug-22
+0 - 11 years old,1,ICU,25-Aug-22
 12 - 19 years old,1,Hospitalised,25-Aug-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,25-Aug-22
 40 - 59 years old,3,ICU,25-Aug-22
@@ -2695,8 +2695,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,158,Hospitalised,25-Aug-22
 60 - 69 years old,60,Hospitalised,25-Aug-22
 60 - 69 years old,1,ICU,26-Aug-22
-0 - 11 years old,1,ICU,26-Aug-22
 70 years old and above,1,ICU,26-Aug-22
+0 - 11 years old,1,ICU,26-Aug-22
 70 years old and above,1,Deceased (based on date of death),26-Aug-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,26-Aug-22
 40 - 59 years old,3,ICU,26-Aug-22
@@ -2720,22 +2720,22 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,9,Hospitalised,27-Aug-22
 70 years old and above,158,Hospitalised,27-Aug-22
 60 - 69 years old,51,Hospitalised,27-Aug-22
-0 - 11 years old,1,ICU,28-Aug-22
 60 - 69 years old,1,ICU,28-Aug-22
+0 - 11 years old,1,ICU,28-Aug-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,28-Aug-22
 70 years old and above,2,ICU,28-Aug-22
 40 - 59 years old,3,ICU,28-Aug-22
-40 - 59 years old,5,Requires Oxygen Supplementation in General Ward,28-Aug-22
 60 - 69 years old,5,Requires Oxygen Supplementation in General Ward,28-Aug-22
+40 - 59 years old,5,Requires Oxygen Supplementation in General Ward,28-Aug-22
 70 years old and above,21,Requires Oxygen Supplementation in General Ward,28-Aug-22
 40 - 59 years old,26,Hospitalised,28-Aug-22
 20 - 39 years old,10,Hospitalised,28-Aug-22
 0 - 11 years old,10,Hospitalised,28-Aug-22
 70 years old and above,156,Hospitalised,28-Aug-22
 60 - 69 years old,46,Hospitalised,28-Aug-22
-0 - 11 years old,1,ICU,29-Aug-22
-70 years old and above,1,ICU,29-Aug-22
 60 - 69 years old,1,ICU,29-Aug-22
+70 years old and above,1,ICU,29-Aug-22
+0 - 11 years old,1,ICU,29-Aug-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,29-Aug-22
 12 - 19 years old,1,Hospitalised,29-Aug-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,29-Aug-22
@@ -2747,13 +2747,13 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,14,Hospitalised,29-Aug-22
 70 years old and above,157,Hospitalised,29-Aug-22
 60 - 69 years old,42,Hospitalised,29-Aug-22
-0 - 11 years old,1,ICU,30-Aug-22
 60 - 69 years old,1,ICU,30-Aug-22
+0 - 11 years old,1,ICU,30-Aug-22
 70 years old and above,1,Deceased (based on date of death),30-Aug-22
 12 - 19 years old,1,Hospitalised,30-Aug-22
 70 years old and above,2,ICU,30-Aug-22
-40 - 59 years old,5,Requires Oxygen Supplementation in General Ward,30-Aug-22
 60 - 69 years old,5,Requires Oxygen Supplementation in General Ward,30-Aug-22
+40 - 59 years old,5,Requires Oxygen Supplementation in General Ward,30-Aug-22
 40 - 59 years old,6,ICU,30-Aug-22
 70 years old and above,16,Requires Oxygen Supplementation in General Ward,30-Aug-22
 40 - 59 years old,21,Hospitalised,30-Aug-22
@@ -2766,8 +2766,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,2,ICU,31-Aug-22
 60 - 69 years old,2,Requires Oxygen Supplementation in General Ward,31-Aug-22
 60 - 69 years old,2,ICU,31-Aug-22
-40 - 59 years old,4,ICU,31-Aug-22
 40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,31-Aug-22
+40 - 59 years old,4,ICU,31-Aug-22
 70 years old and above,13,Requires Oxygen Supplementation in General Ward,31-Aug-22
 40 - 59 years old,20,Hospitalised,31-Aug-22
 20 - 39 years old,5,Hospitalised,31-Aug-22
@@ -2800,8 +2800,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,39,Hospitalised,23-Sep-22
 20 - 39 years old,1,ICU,24-Sep-22
 60 - 69 years old,1,ICU,24-Sep-22
-60 - 69 years old,1,Deceased (based on date of death),24-Sep-22
 70 years old and above,1,Deceased (based on date of death),24-Sep-22
+60 - 69 years old,1,Deceased (based on date of death),24-Sep-22
 12 - 19 years old,2,Hospitalised,24-Sep-22
 40 - 59 years old,2,ICU,24-Sep-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,24-Sep-22
@@ -2866,8 +2866,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,132,Hospitalised,28-Sep-22
 60 - 69 years old,27,Hospitalised,28-Sep-22
 20 - 39 years old,1,ICU,29-Sep-22
-40 - 59 years old,3,ICU,29-Sep-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,29-Sep-22
+40 - 59 years old,3,ICU,29-Sep-22
 60 - 69 years old,3,Requires Oxygen Supplementation in General Ward,29-Sep-22
 70 years old and above,5,ICU,29-Sep-22
 70 years old and above,9,Requires Oxygen Supplementation in General Ward,29-Sep-22
@@ -2904,8 +2904,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,35,Hospitalised,1-Oct-22
 20 - 39 years old,1,ICU,2-Oct-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,2-Oct-22
-40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,2-Oct-22
 40 - 59 years old,3,ICU,2-Oct-22
+40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,2-Oct-22
 60 - 69 years old,3,Requires Oxygen Supplementation in General Ward,2-Oct-22
 70 years old and above,4,ICU,2-Oct-22
 70 years old and above,14,Requires Oxygen Supplementation in General Ward,2-Oct-22
@@ -2946,8 +2946,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,169,Hospitalised,4-Oct-22
 60 - 69 years old,51,Hospitalised,4-Oct-22
 60 - 69 years old,1,ICU,5-Oct-22
-20 - 39 years old,2,ICU,5-Oct-22
 20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,5-Oct-22
+20 - 39 years old,2,ICU,5-Oct-22
 12 - 19 years old,2,Hospitalised,5-Oct-22
 70 years old and above,2,Deceased (based on date of death),5-Oct-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,5-Oct-22
@@ -2992,13 +2992,13 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,46,Hospitalised,7-Oct-22
 20 - 39 years old,1,ICU,8-Oct-22
 60 - 69 years old,1,ICU,8-Oct-22
-20 - 39 years old,1,Deceased (based on date of death),8-Oct-22
 60 - 69 years old,1,Deceased (based on date of death),8-Oct-22
+20 - 39 years old,1,Deceased (based on date of death),8-Oct-22
 40 - 59 years old,3,ICU,8-Oct-22
 70 years old and above,3,ICU,8-Oct-22
 20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,8-Oct-22
-60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,8-Oct-22
 40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,8-Oct-22
+60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,8-Oct-22
 70 years old and above,31,Requires Oxygen Supplementation in General Ward,8-Oct-22
 40 - 59 years old,31,Hospitalised,8-Oct-22
 20 - 39 years old,32,Hospitalised,8-Oct-22
@@ -3039,8 +3039,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,64,Hospitalised,10-Oct-22
 40 - 59 years old,1,ICU,11-Oct-22
 20 - 39 years old,1,ICU,11-Oct-22
-0 - 11 years old,1,ICU,11-Oct-22
 60 - 69 years old,1,ICU,11-Oct-22
+0 - 11 years old,1,ICU,11-Oct-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,11-Oct-22
 12 - 19 years old,2,Hospitalised,11-Oct-22
 70 years old and above,2,Deceased (based on date of death),11-Oct-22
@@ -3074,8 +3074,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,1,Deceased (based on date of death),13-Oct-22
 12 - 19 years old,2,Hospitalised,13-Oct-22
 60 - 69 years old,3,ICU,13-Oct-22
-60 - 69 years old,5,Requires Oxygen Supplementation in General Ward,13-Oct-22
 40 - 59 years old,5,Requires Oxygen Supplementation in General Ward,13-Oct-22
+60 - 69 years old,5,Requires Oxygen Supplementation in General Ward,13-Oct-22
 70 years old and above,8,ICU,13-Oct-22
 70 years old and above,39,Requires Oxygen Supplementation in General Ward,13-Oct-22
 40 - 59 years old,51,Hospitalised,13-Oct-22
@@ -3087,8 +3087,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 20 - 39 years old,1,ICU,14-Oct-22
 12 - 19 years old,1,ICU,14-Oct-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,14-Oct-22
-40 - 59 years old,1,Deceased (based on date of death),14-Oct-22
 70 years old and above,1,Deceased (based on date of death),14-Oct-22
+40 - 59 years old,1,Deceased (based on date of death),14-Oct-22
 12 - 19 years old,2,Hospitalised,14-Oct-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,14-Oct-22
 70 years old and above,3,ICU,14-Oct-22
@@ -3119,8 +3119,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 20 - 39 years old,1,ICU,16-Oct-22
 12 - 19 years old,1,ICU,16-Oct-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,16-Oct-22
-40 - 59 years old,1,Deceased (based on date of death),16-Oct-22
 70 years old and above,1,Deceased (based on date of death),16-Oct-22
+40 - 59 years old,1,Deceased (based on date of death),16-Oct-22
 60 - 69 years old,2,ICU,16-Oct-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,16-Oct-22
 60 - 69 years old,8,Requires Oxygen Supplementation in General Ward,16-Oct-22
@@ -3212,8 +3212,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 40 - 59 years old,1,ICU,22-Oct-22
 20 - 39 years old,1,ICU,22-Oct-22
 12 - 19 years old,1,ICU,22-Oct-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,22-Oct-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,22-Oct-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,22-Oct-22
 40 - 59 years old,1,Deceased (based on date of death),22-Oct-22
 12 - 19 years old,1,Hospitalised,22-Oct-22
 60 - 69 years old,3,ICU,22-Oct-22
@@ -3243,8 +3243,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,335,Hospitalised,23-Oct-22
 60 - 69 years old,80,Hospitalised,23-Oct-22
 20 - 39 years old,1,ICU,24-Oct-22
-0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,24-Oct-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,24-Oct-22
+0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,24-Oct-22
 70 years old and above,1,Deceased (based on date of death),24-Oct-22
 60 - 69 years old,2,Deceased (based on date of death),24-Oct-22
 60 - 69 years old,2,ICU,24-Oct-22
@@ -3290,13 +3290,13 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,343,Hospitalised,26-Oct-22
 60 - 69 years old,85,Hospitalised,26-Oct-22
 12 - 19 years old,1,ICU,27-Oct-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,27-Oct-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,27-Oct-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,27-Oct-22
 12 - 19 years old,2,Hospitalised,27-Oct-22
 70 years old and above,3,Deceased (based on date of death),27-Oct-22
+40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,27-Oct-22
 60 - 69 years old,4,ICU,27-Oct-22
 40 - 59 years old,4,ICU,27-Oct-22
-40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,27-Oct-22
 60 - 69 years old,9,Requires Oxygen Supplementation in General Ward,27-Oct-22
 70 years old and above,8,ICU,27-Oct-22
 70 years old and above,35,Requires Oxygen Supplementation in General Ward,27-Oct-22
@@ -3305,8 +3305,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,12,Hospitalised,27-Oct-22
 70 years old and above,315,Hospitalised,27-Oct-22
 60 - 69 years old,92,Hospitalised,27-Oct-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,28-Oct-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,28-Oct-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,28-Oct-22
 12 - 19 years old,2,Hospitalised,28-Oct-22
 60 - 69 years old,3,ICU,28-Oct-22
 40 - 59 years old,4,ICU,28-Oct-22
@@ -3337,8 +3337,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 40 - 59 years old,1,Deceased (based on date of death),30-Oct-22
 40 - 59 years old,2,ICU,30-Oct-22
 70 years old and above,3,Deceased (based on date of death),30-Oct-22
-40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,30-Oct-22
 60 - 69 years old,4,ICU,30-Oct-22
+40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,30-Oct-22
 60 - 69 years old,13,Requires Oxygen Supplementation in General Ward,30-Oct-22
 70 years old and above,7,ICU,30-Oct-22
 70 years old and above,36,Requires Oxygen Supplementation in General Ward,30-Oct-22
@@ -3366,8 +3366,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,1-Nov-22
 70 years old and above,1,Deceased (based on date of death),1-Nov-22
 12 - 19 years old,1,Hospitalised,1-Nov-22
-40 - 59 years old,3,ICU,1-Nov-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,1-Nov-22
+40 - 59 years old,3,ICU,1-Nov-22
 60 - 69 years old,5,ICU,1-Nov-22
 60 - 69 years old,9,Requires Oxygen Supplementation in General Ward,1-Nov-22
 70 years old and above,10,ICU,1-Nov-22
@@ -3377,8 +3377,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,18,Hospitalised,1-Nov-22
 70 years old and above,293,Hospitalised,1-Nov-22
 60 - 69 years old,68,Hospitalised,1-Nov-22
-12 - 19 years old,2,Requires Oxygen Supplementation in General Ward,2-Nov-22
 12 - 19 years old,2,Hospitalised,2-Nov-22
+12 - 19 years old,2,Requires Oxygen Supplementation in General Ward,2-Nov-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,2-Nov-22
 40 - 59 years old,3,ICU,2-Nov-22
 70 years old and above,3,Deceased (based on date of death),2-Nov-22
@@ -3405,10 +3405,10 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,3,Hospitalised,3-Nov-22
 70 years old and above,246,Hospitalised,3-Nov-22
 60 - 69 years old,74,Hospitalised,3-Nov-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,4-Nov-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,4-Nov-22
-60 - 69 years old,1,Deceased (based on date of death),4-Nov-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,4-Nov-22
 70 years old and above,1,Deceased (based on date of death),4-Nov-22
+60 - 69 years old,1,Deceased (based on date of death),4-Nov-22
 12 - 19 years old,2,Hospitalised,4-Nov-22
 40 - 59 years old,2,ICU,4-Nov-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,4-Nov-22
@@ -3425,8 +3425,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,1,Hospitalised,5-Nov-22
 12 - 19 years old,2,Requires Oxygen Supplementation in General Ward,5-Nov-22
 40 - 59 years old,2,ICU,5-Nov-22
-60 - 69 years old,5,ICU,5-Nov-22
 40 - 59 years old,5,Requires Oxygen Supplementation in General Ward,5-Nov-22
+60 - 69 years old,5,ICU,5-Nov-22
 60 - 69 years old,6,Requires Oxygen Supplementation in General Ward,5-Nov-22
 70 years old and above,9,ICU,5-Nov-22
 70 years old and above,30,Requires Oxygen Supplementation in General Ward,5-Nov-22
@@ -3439,8 +3439,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,1,Deceased (based on date of death),6-Nov-22
 12 - 19 years old,2,Requires Oxygen Supplementation in General Ward,6-Nov-22
 40 - 59 years old,2,ICU,6-Nov-22
-60 - 69 years old,4,ICU,6-Nov-22
 40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,6-Nov-22
+60 - 69 years old,4,ICU,6-Nov-22
 60 - 69 years old,8,Requires Oxygen Supplementation in General Ward,6-Nov-22
 70 years old and above,9,ICU,6-Nov-22
 70 years old and above,26,Requires Oxygen Supplementation in General Ward,6-Nov-22
@@ -3451,8 +3451,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,57,Hospitalised,6-Nov-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,7-Nov-22
 70 years old and above,1,Deceased (based on date of death),7-Nov-22
-12 - 19 years old,2,Hospitalised,7-Nov-22
 12 - 19 years old,2,Requires Oxygen Supplementation in General Ward,7-Nov-22
+12 - 19 years old,2,Hospitalised,7-Nov-22
 40 - 59 years old,2,ICU,7-Nov-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,7-Nov-22
 60 - 69 years old,4,ICU,7-Nov-22
@@ -3466,8 +3466,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,62,Hospitalised,7-Nov-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,8-Nov-22
 60 - 69 years old,1,Deceased (based on date of death),8-Nov-22
-12 - 19 years old,2,Hospitalised,8-Nov-22
 12 - 19 years old,2,Requires Oxygen Supplementation in General Ward,8-Nov-22
+12 - 19 years old,2,Hospitalised,8-Nov-22
 40 - 59 years old,2,ICU,8-Nov-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,8-Nov-22
 60 - 69 years old,4,ICU,8-Nov-22
@@ -3479,8 +3479,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,11,Hospitalised,8-Nov-22
 70 years old and above,193,Hospitalised,8-Nov-22
 60 - 69 years old,55,Hospitalised,8-Nov-22
-12 - 19 years old,2,Hospitalised,9-Nov-22
 12 - 19 years old,2,Requires Oxygen Supplementation in General Ward,9-Nov-22
+12 - 19 years old,2,Hospitalised,9-Nov-22
 40 - 59 years old,3,ICU,9-Nov-22
 60 - 69 years old,3,ICU,9-Nov-22
 40 - 59 years old,4,Requires Oxygen Supplementation in General Ward,9-Nov-22
@@ -3493,8 +3493,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,173,Hospitalised,9-Nov-22
 60 - 69 years old,46,Hospitalised,9-Nov-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,10-Nov-22
-40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,10-Nov-22
 40 - 59 years old,3,ICU,10-Nov-22
+40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,10-Nov-22
 60 - 69 years old,3,ICU,10-Nov-22
 60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,10-Nov-22
 70 years old and above,8,ICU,10-Nov-22
@@ -3546,8 +3546,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,13,Hospitalised,13-Nov-22
 70 years old and above,131,Hospitalised,13-Nov-22
 60 - 69 years old,32,Hospitalised,13-Nov-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,14-Nov-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,14-Nov-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,14-Nov-22
 70 years old and above,1,Deceased (based on date of death),14-Nov-22
 12 - 19 years old,2,Hospitalised,14-Nov-22
 60 - 69 years old,2,Requires Oxygen Supplementation in General Ward,14-Nov-22
@@ -3561,8 +3561,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,14,Hospitalised,14-Nov-22
 70 years old and above,132,Hospitalised,14-Nov-22
 60 - 69 years old,33,Hospitalised,14-Nov-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,15-Nov-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,15-Nov-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,15-Nov-22
 40 - 59 years old,2,ICU,15-Nov-22
 40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,15-Nov-22
 60 - 69 years old,4,ICU,15-Nov-22
@@ -3575,10 +3575,10 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,3,Hospitalised,15-Nov-22
 70 years old and above,130,Hospitalised,15-Nov-22
 60 - 69 years old,24,Hospitalised,15-Nov-22
-40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,16-Nov-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,16-Nov-22
-60 - 69 years old,1,Deceased (based on date of death),16-Nov-22
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,16-Nov-22
 70 years old and above,1,Deceased (based on date of death),16-Nov-22
+60 - 69 years old,1,Deceased (based on date of death),16-Nov-22
 40 - 59 years old,2,ICU,16-Nov-22
 60 - 69 years old,3,ICU,16-Nov-22
 60 - 69 years old,5,Requires Oxygen Supplementation in General Ward,16-Nov-22
@@ -3590,8 +3590,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 12 - 19 years old,3,Hospitalised,16-Nov-22
 70 years old and above,107,Hospitalised,16-Nov-22
 60 - 69 years old,24,Hospitalised,16-Nov-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,17-Nov-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,17-Nov-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,17-Nov-22
 12 - 19 years old,1,Hospitalised,17-Nov-22
 60 - 69 years old,2,ICU,17-Nov-22
 40 - 59 years old,2,ICU,17-Nov-22
@@ -3603,8 +3603,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,11,Hospitalised,17-Nov-22
 70 years old and above,104,Hospitalised,17-Nov-22
 60 - 69 years old,27,Hospitalised,17-Nov-22
-0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,18-Nov-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,18-Nov-22
+0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,18-Nov-22
 12 - 19 years old,1,Hospitalised,18-Nov-22
 60 - 69 years old,2,ICU,18-Nov-22
 40 - 59 years old,2,ICU,18-Nov-22
@@ -3618,9 +3618,9 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,29,Hospitalised,18-Nov-22
 40 - 59 years old,1,ICU,19-Nov-22
 60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,19-Nov-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,19-Nov-22
-40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,19-Nov-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,19-Nov-22
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,19-Nov-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,19-Nov-22
 12 - 19 years old,1,Hospitalised,19-Nov-22
 60 - 69 years old,2,ICU,19-Nov-22
 70 years old and above,4,ICU,19-Nov-22
@@ -3631,11 +3631,11 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,105,Hospitalised,19-Nov-22
 60 - 69 years old,32,Hospitalised,19-Nov-22
 40 - 59 years old,1,ICU,20-Nov-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,20-Nov-22
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,20-Nov-22
+0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,20-Nov-22
 60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,20-Nov-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,20-Nov-22
-0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,20-Nov-22
-40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,20-Nov-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,20-Nov-22
 70 years old and above,1,Deceased (based on date of death),20-Nov-22
 12 - 19 years old,1,Hospitalised,20-Nov-22
 60 - 69 years old,2,ICU,20-Nov-22
@@ -3647,9 +3647,9 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,103,Hospitalised,20-Nov-22
 60 - 69 years old,22,Hospitalised,20-Nov-22
 40 - 59 years old,1,ICU,21-Nov-22
-20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,21-Nov-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,21-Nov-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,21-Nov-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,21-Nov-22
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,21-Nov-22
 70 years old and above,1,Deceased (based on date of death),21-Nov-22
 12 - 19 years old,1,Hospitalised,21-Nov-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,21-Nov-22
@@ -3662,9 +3662,9 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,107,Hospitalised,21-Nov-22
 60 - 69 years old,25,Hospitalised,21-Nov-22
 40 - 59 years old,1,ICU,22-Nov-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,22-Nov-22
-0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,22-Nov-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,22-Nov-22
+0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,22-Nov-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,22-Nov-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,22-Nov-22
 12 - 19 years old,1,Hospitalised,22-Nov-22
 60 - 69 years old,2,Requires Oxygen Supplementation in General Ward,22-Nov-22
@@ -3677,8 +3677,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,98,Hospitalised,22-Nov-22
 60 - 69 years old,23,Hospitalised,22-Nov-22
 40 - 59 years old,1,ICU,23-Nov-22
-40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,23-Nov-22
 12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,23-Nov-22
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,23-Nov-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,23-Nov-22
 12 - 19 years old,1,Hospitalised,23-Nov-22
 60 - 69 years old,2,ICU,23-Nov-22
@@ -3691,8 +3691,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,87,Hospitalised,23-Nov-22
 60 - 69 years old,25,Hospitalised,23-Nov-22
 40 - 59 years old,1,ICU,24-Nov-22
-12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,24-Nov-22
 60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,24-Nov-22
+12 - 19 years old,1,Requires Oxygen Supplementation in General Ward,24-Nov-22
 60 - 69 years old,2,ICU,24-Nov-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,24-Nov-22
 20 - 39 years old,3,Requires Oxygen Supplementation in General Ward,24-Nov-22
@@ -3809,8 +3809,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,59,Hospitalised,2-Dec-22
 60 - 69 years old,17,Hospitalised,2-Dec-22
 60 - 69 years old,1,ICU,3-Dec-22
-0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,3-Dec-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,3-Dec-22
+0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,3-Dec-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,3-Dec-22
 12 - 19 years old,1,Hospitalised,3-Dec-22
 40 - 59 years old,2,ICU,3-Dec-22
@@ -3823,9 +3823,9 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,56,Hospitalised,3-Dec-22
 60 - 69 years old,12,Hospitalised,3-Dec-22
 60 - 69 years old,1,ICU,4-Dec-22
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,4-Dec-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,4-Dec-22
 20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,4-Dec-22
-40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,4-Dec-22
 60 - 69 years old,1,Deceased (based on date of death),4-Dec-22
 12 - 19 years old,1,Hospitalised,4-Dec-22
 40 - 59 years old,2,ICU,4-Dec-22
@@ -3838,8 +3838,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,51,Hospitalised,4-Dec-22
 60 - 69 years old,11,Hospitalised,4-Dec-22
 60 - 69 years old,1,ICU,5-Dec-22
-20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,5-Dec-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,5-Dec-22
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,5-Dec-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,5-Dec-22
 40 - 59 years old,2,ICU,5-Dec-22
 60 - 69 years old,4,Requires Oxygen Supplementation in General Ward,5-Dec-22
@@ -3864,8 +3864,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,59,Hospitalised,6-Dec-22
 60 - 69 years old,14,Hospitalised,6-Dec-22
 40 - 59 years old,1,ICU,7-Dec-22
-20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,7-Dec-22
 0 - 11 years old,2,Hospitalised,7-Dec-22
+20 - 39 years old,2,Requires Oxygen Supplementation in General Ward,7-Dec-22
 12 - 19 years old,2,Hospitalised,7-Dec-22
 40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,7-Dec-22
 60 - 69 years old,3,Requires Oxygen Supplementation in General Ward,7-Dec-22
@@ -3877,8 +3877,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,16,Hospitalised,7-Dec-22
 40 - 59 years old,1,ICU,8-Dec-22
 60 - 69 years old,1,ICU,8-Dec-22
-20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,8-Dec-22
 60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,8-Dec-22
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,8-Dec-22
 12 - 19 years old,1,Hospitalised,8-Dec-22
 70 years old and above,4,ICU,8-Dec-22
 70 years old and above,19,Requires Oxygen Supplementation in General Ward,8-Dec-22
@@ -4017,8 +4017,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 70 years old and above,48,Hospitalised,20-Dec-22
 60 - 69 years old,19,Hospitalised,20-Dec-22
 40 - 59 years old,1,ICU,21-Dec-22
-20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,21-Dec-22
 40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,21-Dec-22
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,21-Dec-22
 12 - 19 years old,2,Hospitalised,21-Dec-22
 60 - 69 years old,3,Requires Oxygen Supplementation in General Ward,21-Dec-22
 70 years old and above,5,ICU,21-Dec-22
@@ -4103,8 +4103,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 60 - 69 years old,10,Hospitalised,28-Dec-22
 60 - 69 years old,1,ICU,29-Dec-22
 60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,29-Dec-22
-0 - 11 years old,1,Hospitalised,29-Dec-22
 12 - 19 years old,1,Hospitalised,29-Dec-22
+0 - 11 years old,1,Hospitalised,29-Dec-22
 70 years old and above,3,ICU,29-Dec-22
 70 years old and above,6,Requires Oxygen Supplementation in General Ward,29-Dec-22
 40 - 59 years old,9,Hospitalised,29-Dec-22
@@ -4121,8 +4121,8 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,3,Hospitalised,30-Dec-22
 70 years old and above,45,Hospitalised,30-Dec-22
 60 - 69 years old,16,Hospitalised,30-Dec-22
-60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,31-Dec-22
 0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,31-Dec-22
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,31-Dec-22
 12 - 19 years old,1,Hospitalised,31-Dec-22
 70 years old and above,3,ICU,31-Dec-22
 70 years old and above,9,Requires Oxygen Supplementation in General Ward,31-Dec-22
@@ -4175,3 +4175,236 @@ age_groups,case,clinical_status,day_of_as_of_date
 0 - 11 years old,4,Hospitalised,5-Jan-23
 70 years old and above,36,Hospitalised,5-Jan-23
 60 - 69 years old,9,Hospitalised,5-Jan-23
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,6-Jan-23
+0 - 11 years old,1,Hospitalised,6-Jan-23
+70 years old and above,2,ICU,6-Jan-23
+70 years old and above,7,Requires Oxygen Supplementation in General Ward,6-Jan-23
+40 - 59 years old,5,Hospitalised,6-Jan-23
+20 - 39 years old,3,Hospitalised,6-Jan-23
+70 years old and above,28,Hospitalised,6-Jan-23
+60 - 69 years old,11,Hospitalised,6-Jan-23
+70 years old and above,2,ICU,7-Jan-23
+70 years old and above,6,Requires Oxygen Supplementation in General Ward,7-Jan-23
+40 - 59 years old,3,Hospitalised,7-Jan-23
+70 years old and above,35,Hospitalised,7-Jan-23
+60 - 69 years old,9,Hospitalised,7-Jan-23
+70 years old and above,1,Deceased (based on date of death),8-Jan-23
+0 - 11 years old,2,Hospitalised,8-Jan-23
+70 years old and above,3,ICU,8-Jan-23
+70 years old and above,7,Requires Oxygen Supplementation in General Ward,8-Jan-23
+40 - 59 years old,4,Hospitalised,8-Jan-23
+70 years old and above,38,Hospitalised,8-Jan-23
+60 - 69 years old,11,Hospitalised,8-Jan-23
+60 - 69 years old,1,ICU,9-Jan-23
+70 years old and above,1,ICU,9-Jan-23
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,9-Jan-23
+70 years old and above,7,Requires Oxygen Supplementation in General Ward,9-Jan-23
+40 - 59 years old,5,Hospitalised,9-Jan-23
+70 years old and above,43,Hospitalised,9-Jan-23
+60 - 69 years old,12,Hospitalised,9-Jan-23
+60 - 69 years old,1,ICU,10-Jan-23
+70 years old and above,1,ICU,10-Jan-23
+0 - 11 years old,1,Requires Oxygen Supplementation in General Ward,10-Jan-23
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,10-Jan-23
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,10-Jan-23
+20 - 39 years old,1,Hospitalised,10-Jan-23
+0 - 11 years old,1,Hospitalised,10-Jan-23
+70 years old and above,2,Deceased (based on date of death),10-Jan-23
+70 years old and above,8,Requires Oxygen Supplementation in General Ward,10-Jan-23
+40 - 59 years old,6,Hospitalised,10-Jan-23
+70 years old and above,44,Hospitalised,10-Jan-23
+60 - 69 years old,10,Hospitalised,10-Jan-23
+60 - 69 years old,1,ICU,11-Jan-23
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,11-Jan-23
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,11-Jan-23
+70 years old and above,1,Deceased (based on date of death),11-Jan-23
+12 - 19 years old,1,Hospitalised,11-Jan-23
+20 - 39 years old,2,Hospitalised,11-Jan-23
+0 - 11 years old,2,Hospitalised,11-Jan-23
+70 years old and above,2,ICU,11-Jan-23
+40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,11-Jan-23
+70 years old and above,7,Requires Oxygen Supplementation in General Ward,11-Jan-23
+40 - 59 years old,3,Hospitalised,11-Jan-23
+70 years old and above,45,Hospitalised,11-Jan-23
+60 - 69 years old,11,Hospitalised,11-Jan-23
+60 - 69 years old,1,ICU,12-Jan-23
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,12-Jan-23
+20 - 39 years old,1,Hospitalised,12-Jan-23
+12 - 19 years old,1,Hospitalised,12-Jan-23
+70 years old and above,2,ICU,12-Jan-23
+40 - 59 years old,2,Hospitalised,12-Jan-23
+40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,12-Jan-23
+70 years old and above,7,Requires Oxygen Supplementation in General Ward,12-Jan-23
+0 - 11 years old,4,Hospitalised,12-Jan-23
+70 years old and above,47,Hospitalised,12-Jan-23
+60 - 69 years old,8,Hospitalised,12-Jan-23
+60 - 69 years old,1,ICU,13-Jan-23
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,13-Jan-23
+20 - 39 years old,1,Hospitalised,13-Jan-23
+40 - 59 years old,1,Hospitalised,13-Jan-23
+70 years old and above,2,ICU,13-Jan-23
+40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,13-Jan-23
+70 years old and above,6,Requires Oxygen Supplementation in General Ward,13-Jan-23
+70 years old and above,39,Hospitalised,13-Jan-23
+60 - 69 years old,6,Hospitalised,13-Jan-23
+60 - 69 years old,1,ICU,14-Jan-23
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,14-Jan-23
+70 years old and above,1,Deceased (based on date of death),14-Jan-23
+20 - 39 years old,2,Hospitalised,14-Jan-23
+0 - 11 years old,2,Hospitalised,14-Jan-23
+70 years old and above,2,ICU,14-Jan-23
+40 - 59 years old,3,Requires Oxygen Supplementation in General Ward,14-Jan-23
+70 years old and above,6,Requires Oxygen Supplementation in General Ward,14-Jan-23
+40 - 59 years old,3,Hospitalised,14-Jan-23
+70 years old and above,29,Hospitalised,14-Jan-23
+60 - 69 years old,3,Hospitalised,14-Jan-23
+40 - 59 years old,1,ICU,15-Jan-23
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,15-Jan-23
+0 - 11 years old,2,Hospitalised,15-Jan-23
+70 years old and above,2,ICU,15-Jan-23
+40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,15-Jan-23
+70 years old and above,7,Requires Oxygen Supplementation in General Ward,15-Jan-23
+40 - 59 years old,5,Hospitalised,15-Jan-23
+20 - 39 years old,3,Hospitalised,15-Jan-23
+70 years old and above,23,Hospitalised,15-Jan-23
+60 - 69 years old,4,Hospitalised,15-Jan-23
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,16-Jan-23
+70 years old and above,1,Deceased (based on date of death),16-Jan-23
+20 - 39 years old,2,Hospitalised,16-Jan-23
+70 years old and above,2,ICU,16-Jan-23
+40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,16-Jan-23
+70 years old and above,7,Requires Oxygen Supplementation in General Ward,16-Jan-23
+40 - 59 years old,5,Hospitalised,16-Jan-23
+0 - 11 years old,3,Hospitalised,16-Jan-23
+70 years old and above,26,Hospitalised,16-Jan-23
+60 - 69 years old,5,Hospitalised,16-Jan-23
+70 years old and above,2,ICU,17-Jan-23
+40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,17-Jan-23
+70 years old and above,6,Requires Oxygen Supplementation in General Ward,17-Jan-23
+40 - 59 years old,3,Hospitalised,17-Jan-23
+20 - 39 years old,3,Hospitalised,17-Jan-23
+0 - 11 years old,4,Hospitalised,17-Jan-23
+70 years old and above,24,Hospitalised,17-Jan-23
+60 - 69 years old,10,Hospitalised,17-Jan-23
+70 years old and above,1,ICU,18-Jan-23
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,18-Jan-23
+0 - 11 years old,2,Hospitalised,18-Jan-23
+40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,18-Jan-23
+40 - 59 years old,2,Hospitalised,18-Jan-23
+70 years old and above,6,Requires Oxygen Supplementation in General Ward,18-Jan-23
+20 - 39 years old,5,Hospitalised,18-Jan-23
+70 years old and above,13,Hospitalised,18-Jan-23
+60 - 69 years old,9,Hospitalised,18-Jan-23
+70 years old and above,1,ICU,19-Jan-23
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,19-Jan-23
+70 years old and above,1,Deceased (based on date of death),19-Jan-23
+20 - 39 years old,2,Hospitalised,19-Jan-23
+40 - 59 years old,2,Hospitalised,19-Jan-23
+40 - 59 years old,2,Requires Oxygen Supplementation in General Ward,19-Jan-23
+70 years old and above,5,Requires Oxygen Supplementation in General Ward,19-Jan-23
+0 - 11 years old,3,Hospitalised,19-Jan-23
+70 years old and above,13,Hospitalised,19-Jan-23
+60 - 69 years old,9,Hospitalised,19-Jan-23
+70 years old and above,1,ICU,20-Jan-23
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,20-Jan-23
+20 - 39 years old,2,Hospitalised,20-Jan-23
+70 years old and above,2,Requires Oxygen Supplementation in General Ward,20-Jan-23
+40 - 59 years old,2,Hospitalised,20-Jan-23
+0 - 11 years old,4,Hospitalised,20-Jan-23
+70 years old and above,16,Hospitalised,20-Jan-23
+60 - 69 years old,10,Hospitalised,20-Jan-23
+70 years old and above,1,ICU,21-Jan-23
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,21-Jan-23
+0 - 11 years old,2,Hospitalised,21-Jan-23
+20 - 39 years old,2,Hospitalised,21-Jan-23
+70 years old and above,2,Requires Oxygen Supplementation in General Ward,21-Jan-23
+70 years old and above,17,Hospitalised,21-Jan-23
+60 - 69 years old,7,Hospitalised,21-Jan-23
+60 - 69 years old,1,ICU,22-Jan-23
+70 years old and above,1,ICU,22-Jan-23
+12 - 19 years old,1,Hospitalised,22-Jan-23
+20 - 39 years old,2,Hospitalised,22-Jan-23
+40 - 59 years old,2,Hospitalised,22-Jan-23
+70 years old and above,3,Requires Oxygen Supplementation in General Ward,22-Jan-23
+0 - 11 years old,3,Hospitalised,22-Jan-23
+70 years old and above,18,Hospitalised,22-Jan-23
+60 - 69 years old,7,Hospitalised,22-Jan-23
+60 - 69 years old,1,ICU,23-Jan-23
+0 - 11 years old,2,Hospitalised,23-Jan-23
+70 years old and above,2,Requires Oxygen Supplementation in General Ward,23-Jan-23
+40 - 59 years old,2,Hospitalised,23-Jan-23
+20 - 39 years old,3,Hospitalised,23-Jan-23
+70 years old and above,18,Hospitalised,23-Jan-23
+60 - 69 years old,4,Hospitalised,23-Jan-23
+60 - 69 years old,1,ICU,24-Jan-23
+70 years old and above,1,Requires Oxygen Supplementation in General Ward,24-Jan-23
+0 - 11 years old,1,Hospitalised,24-Jan-23
+20 - 39 years old,2,Hospitalised,24-Jan-23
+40 - 59 years old,2,Hospitalised,24-Jan-23
+70 years old and above,18,Hospitalised,24-Jan-23
+60 - 69 years old,4,Hospitalised,24-Jan-23
+60 - 69 years old,1,ICU,25-Jan-23
+40 - 59 years old,1,Hospitalised,25-Jan-23
+70 years old and above,2,Requires Oxygen Supplementation in General Ward,25-Jan-23
+20 - 39 years old,3,Hospitalised,25-Jan-23
+0 - 11 years old,3,Hospitalised,25-Jan-23
+70 years old and above,11,Hospitalised,25-Jan-23
+60 - 69 years old,7,Hospitalised,25-Jan-23
+60 - 69 years old,1,ICU,26-Jan-23
+70 years old and above,1,Requires Oxygen Supplementation in General Ward,26-Jan-23
+12 - 19 years old,1,Hospitalised,26-Jan-23
+40 - 59 years old,1,Hospitalised,26-Jan-23
+20 - 39 years old,3,Hospitalised,26-Jan-23
+0 - 11 years old,3,Hospitalised,26-Jan-23
+70 years old and above,15,Hospitalised,26-Jan-23
+60 - 69 years old,6,Hospitalised,26-Jan-23
+60 - 69 years old,1,ICU,27-Jan-23
+70 years old and above,1,ICU,27-Jan-23
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,27-Jan-23
+60 - 69 years old,1,Deceased (based on date of death),27-Jan-23
+12 - 19 years old,1,Hospitalised,27-Jan-23
+40 - 59 years old,1,Hospitalised,27-Jan-23
+20 - 39 years old,2,Hospitalised,27-Jan-23
+70 years old and above,3,Requires Oxygen Supplementation in General Ward,27-Jan-23
+0 - 11 years old,3,Hospitalised,27-Jan-23
+70 years old and above,12,Hospitalised,27-Jan-23
+60 - 69 years old,6,Hospitalised,27-Jan-23
+60 - 69 years old,1,ICU,28-Jan-23
+70 years old and above,1,ICU,28-Jan-23
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,28-Jan-23
+20 - 39 years old,1,Hospitalised,28-Jan-23
+12 - 19 years old,1,Hospitalised,28-Jan-23
+70 years old and above,3,Requires Oxygen Supplementation in General Ward,28-Jan-23
+70 years old and above,12,Hospitalised,28-Jan-23
+60 - 69 years old,6,Hospitalised,28-Jan-23
+40 - 59 years old,1,ICU,29-Jan-23
+70 years old and above,1,Deceased (based on date of death),29-Jan-23
+20 - 39 years old,1,Hospitalised,29-Jan-23
+40 - 59 years old,1,Hospitalised,29-Jan-23
+12 - 19 years old,1,Hospitalised,29-Jan-23
+70 years old and above,2,Requires Oxygen Supplementation in General Ward,29-Jan-23
+70 years old and above,14,Hospitalised,29-Jan-23
+60 - 69 years old,8,Hospitalised,29-Jan-23
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,30-Jan-23
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,30-Jan-23
+20 - 39 years old,1,Requires Oxygen Supplementation in General Ward,30-Jan-23
+40 - 59 years old,1,Hospitalised,30-Jan-23
+20 - 39 years old,2,Hospitalised,30-Jan-23
+70 years old and above,4,Requires Oxygen Supplementation in General Ward,30-Jan-23
+70 years old and above,15,Hospitalised,30-Jan-23
+60 - 69 years old,7,Hospitalised,30-Jan-23
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,31-Jan-23
+40 - 59 years old,1,Hospitalised,31-Jan-23
+60 - 69 years old,2,Requires Oxygen Supplementation in General Ward,31-Jan-23
+70 years old and above,4,Requires Oxygen Supplementation in General Ward,31-Jan-23
+20 - 39 years old,4,Hospitalised,31-Jan-23
+70 years old and above,18,Hospitalised,31-Jan-23
+60 - 69 years old,8,Hospitalised,31-Jan-23
+40 - 59 years old,1,Requires Oxygen Supplementation in General Ward,1-Feb-23
+60 - 69 years old,1,Requires Oxygen Supplementation in General Ward,1-Feb-23
+70 years old and above,2,Requires Oxygen Supplementation in General Ward,1-Feb-23
+40 - 59 years old,2,Hospitalised,1-Feb-23
+20 - 39 years old,5,Hospitalised,1-Feb-23
+0 - 11 years old,3,Hospitalised,1-Feb-23
+70 years old and above,22,Hospitalised,1-Feb-23
+60 - 69 years old,8,Hospitalised,1-Feb-23
